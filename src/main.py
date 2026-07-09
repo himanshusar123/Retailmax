@@ -82,7 +82,3 @@ async def run_pipeline() -> None:
 if __name__ == "__main__":
     # Execute the asynchronous wrapper pipeline
     asyncio.run(run_pipeline())
-
-
-def calculate_salary():
-print("Hello")
