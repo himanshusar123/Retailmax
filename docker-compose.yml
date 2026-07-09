@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  retailmax-platform:
+    build: .
+    container_name: retailmax_container
+    ports:
+      - "8000:8000"
+    # Mount volumes to map folders between the Docker container and your Windows filesystem.
+    # This ensures database, charts, and reports generated in the container are saved to your disk.
+    volumes:
+      - ./data:/app/data
+      - ./database:/app/database
+      - ./charts:/app/charts
+      - ./reports:/app/reports
+      - ./retailmax.log:/app/retailmax.log

@@ -19,7 +19,8 @@ from pathlib import Path
 CONFIG_DIR = Path(__file__).resolve().parent
 
 # Base directory representing the VS Code project root
-BASE_DIR = CONFIG_DIR
+# If config.py is inside the 'src' subfolder, the root is its parent directory.
+BASE_DIR = CONFIG_DIR.parent if CONFIG_DIR.name == "src" else CONFIG_DIR
 
 # Subdirectory configurations
 DATA_DIR = BASE_DIR / "data"
