@@ -396,9 +396,8 @@ class ExecutiveReportGenerator:
             return excel_path
 
         except Exception as e:
-            raise AnalyticsError(
-                f"Failed to generate Excel report using OpenPyXL: {e}"
-            ) from e
+            raise AnalyticsError(f"Failed to generate Excel report using OpenPyXL: {e}") from e
+
 
 # ==============================================================================
 # INTERVIEW NOTES & SPREADSHEET ARCHITECTURES:

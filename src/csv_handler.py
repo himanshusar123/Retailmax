@@ -214,9 +214,7 @@ class CSVHandler:
             os.replace(temp_file_path, self.file_path)
         except Exception as e:
             temp_file_path.unlink(missing_ok=True)
-            raise CSVHandlerError(
-                f"Atomic transaction write failed: {e}", str(self.file_path)
-            )
+            raise CSVHandlerError(f"Atomic transaction write failed: {e}", str(self.file_path))
 
 
 # ==============================================================================
