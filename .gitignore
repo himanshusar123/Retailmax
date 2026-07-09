@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Caches
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# Databases (SQLite)
+database/*.db
+!database/retailmax.db
+database/*.db-journal
+database/*.db-wal
+database/*.db-shm
+
+# Generated Artifacts
+charts/*.png
+!charts/.gitkeep
+reports/*.md
+reports/*.xlsx
+reports/*.csv
+!reports/.gitkeep
+
+# Log files
+*.log
+logs/
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+dist/
+build/
+*.egg-info/

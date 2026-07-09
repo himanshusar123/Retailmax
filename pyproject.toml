@@ -1,0 +1,40 @@
+[tool.black]
+line-length = 100
+target-version = ['py310']
+include = '\.pyi?$'
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+select = ["E", "F", "I", "N", "UP", "B", "A", "C4", "SIM", "ARG"]
+ignore = ["E501", "B904"]
+
+[tool.ruff.isort]
+combine-as-imports = true
+force-single-line = false
+known-first-party = ["employee", "csv_handler", "database", "analytics", "api_service", "validation", "report_generator", "logging_config", "config", "constants", "exceptions", "db_migrator", "async_fetcher", "data_transformer"]
+
+[tool.mypy]
+python_version = "3.10"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = true
+disallow_incomplete_defs = true
+check_untyped_defs = true
+disallow_untyped_decorators = false
+no_implicit_optional = true
+warn_redundant_casts = true
+warn_unused_ignores = true
+warn_no_return = true
+warn_unreachable = true
+
+[[tool.mypy.overrides]]
+module = [
+    "pandas.*",
+    "matplotlib.*",
+    "openpyxl.*",
+    "requests.*",
+    "httpx.*",
+    "pytest.*"
+]
+ignore_missing_imports = true
