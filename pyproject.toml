@@ -6,10 +6,12 @@ include = '\.pyi?$'
 [tool.ruff]
 line-length = 100
 target-version = "py310"
+
+[tool.ruff.lint]
 select = ["E", "F", "I", "N", "UP", "B", "A", "C4", "SIM", "ARG"]
 ignore = ["E501", "B904"]
 
-[tool.ruff.isort]
+[tool.ruff.lint.isort]
 combine-as-imports = true
 force-single-line = false
 known-first-party = ["employee", "csv_handler", "database", "analytics", "api_service", "validation", "report_generator", "logging_config", "config", "constants", "exceptions", "db_migrator", "async_fetcher", "data_transformer"]
