@@ -1,0 +1,56 @@
+name: Day 6 Production Readiness CI
+
+on:
+  push:
+    paths:
+      - 'day6_readiness_review/**'
+      - '.github/workflows/day6-ci.yml'
+  pull_request:
+    paths:
+      - 'day6_readiness_review/**'
+      - '.github/workflows/day6-ci.yml'
+  workflow_dispatch:
+
+jobs:
+  readiness-checks:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the code
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      # Step 2: Set up Python 3.11 environment
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: 'day6_readiness_review/after/requirements.txt'
+
+      # Step 3: Install dependencies
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r day6_readiness_review/after/requirements.txt
+
+      # Step 4: Run Formatting Check (Black)
+      - name: Verify Code Formatting (Black)
+        run: black --check day6_readiness_review/after
+
+      # Step 5: Run Code Linting (Ruff)
+      - name: Run Linter (Ruff)
+        run: ruff check day6_readiness_review/after
+
+      # Step 6: Run Static Type Verification (Mypy)
+      - name: Run Type Checker (Mypy)
+        run: |
+          # Use the configuration inside the after directory
+          cd day6_readiness_review/after
+          mypy src tests
+
+      # Step 7: Run Unit Tests (Pytest)
+      - name: Run Unit Tests (Pytest)
+        run: |
+          cd day6_readiness_review/after
+          pytest -v

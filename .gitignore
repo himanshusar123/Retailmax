@@ -16,6 +16,13 @@ database/*.db-journal
 database/*.db-wal
 database/*.db-shm
 
+# Ignore local DBs generated during Day 6 exercises
+day6_readiness_review/after/*.db
+day6_readiness_review/after/*.db-journal
+day6_readiness_review/after/*.db-wal
+day6_readiness_review/after/*.db-shm
+
+
 # Generated Artifacts
 charts/*.png
 !charts/.gitkeep
