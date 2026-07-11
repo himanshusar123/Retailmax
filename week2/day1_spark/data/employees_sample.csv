@@ -1,0 +1,1001 @@
+EmployeeID,Name,Department,Salary,Age,Gender,Country,StoreID,HireDate,IsActive
+1,Patrick Hill,Engineering,154798.63,46,Female,Brazil,546,2025-11-30,Yes
+2,Stephen Reed,Engineering,124413.77,33,Non-binary,Netherlands,767,2021-11-25,Yes
+3,Steven Thompson,Support,65978.96,57,Female,South Korea,1500,2022-02-06,Yes
+4,Peter Flores,Engineering,85933.14,26,Male,Germany,87,2019-05-27,Yes
+5,Daniel Cox,Sales,49228.07,55,Female,Switzerland,50,2025-01-22,Yes
+6,James Gonzalez,Procurement,63337.36,58,Non-binary,Italy,107,2017-01-08,Yes
+7,Gregory Nguyen,Support,47084.69,44,Female,United States,105,2023-07-24,Yes
+8,Heather Green,Operations,62425.8,63,Non-binary,Japan,1768,2022-06-09,Yes
+9,William Edwards,Legal,168950.15,52,Female,Saudi Arabia,405,2025-07-18,Yes
+10,Carol Wright,Procurement,64975.01,45,Female,Netherlands,1107,2020-03-31,Yes
+11,Brenda Flores,Legal,170427.81,46,Male,Switzerland,1686,2019-01-22,Yes
+12,Jonathan Kim,Marketing,52794.72,46,Female,United Arab Emirates,1780,2021-04-22,Yes
+13,Sandra Davis,Procurement,53271.73,26,Non-binary,Ireland,627,2024-12-06,No
+14,Linda Kelly,Marketing,92463.11,56,Male,United States,1605,2016-11-10,Yes
+15,Kevin Walker,Support,60947.99,28,Female,Saudi Arabia,385,2019-12-01,Yes
+16,Robert Hall,Sales,62750.64,65,Female,Netherlands,879,2018-11-15,Yes
+17,Linda Ward,Operations,79986.91,40,Non-binary,Saudi Arabia,851,2017-02-10,Yes
+18,Nicholas Diaz,Sales,67404.01,31,Male,Switzerland,1734,2016-02-15,Yes
+19,Pamela Green,Legal,114497.55,63,Male,Brazil,1192,2022-06-20,No
+20,Karen Diaz,HR,67003.09,21,Non-binary,Singapore,1078,2016-09-11,Yes
+21,Amy Ortiz,Support,42521.62,61,Male,Canada,591,2026-03-22,Yes
+22,Melissa Bennett,Procurement,91453.84,45,Male,South Africa,252,2018-04-12,Yes
+23,Betty Miller,Legal,159845.11,61,Female,Italy,139,2016-05-17,Yes
+24,Michael Rodriguez,Sales,48044.09,24,Non-binary,South Africa,216,2016-07-18,Yes
+25,Samantha Gray,Sales,45746.95,28,Male,Brazil,1182,2019-08-03,Yes
+26,Rachel Howard,Procurement,52482.79,24,Non-binary,Mexico,1648,2017-04-14,Yes
+27,Justin Scott,HR,74318.87,50,Female,South Africa,583,2021-12-14,Yes
+28,Ronald Allen,Finance,86358.08,28,Female,South Africa,115,2024-08-31,Yes
+29,Susan Bailey,Engineering,88419.29,32,Female,New Zealand,766,2023-09-06,Yes
+30,Robert Rivera,Support,71992.96,61,Non-binary,Spain,978,2025-08-29,Yes
+31,Edward Torres,Marketing,58571.94,31,Male,Australia,1896,2023-08-21,Yes
+32,Kevin Harris,Marketing,83854.65,56,Male,Switzerland,1115,2025-08-11,Yes
+33,Eric Mendoza,Finance,90438.24,44,Female,India,549,2017-10-19,Yes
+34,Matthew Evans,Sales,87132.45,62,Female,South Africa,1494,2021-10-25,Yes
+35,George King,Finance,124606.47,64,Female,New Zealand,426,2020-06-12,Yes
+36,Betty Thomas,Operations,55342.05,32,Male,United Arab Emirates,1394,2017-06-07,No
+37,William Gutierrez,Engineering,110404.14,26,Non-binary,United Kingdom,831,2017-05-04,Yes
+38,Thomas Gomez,Support,66237.67,37,Non-binary,Spain,392,2025-10-18,Yes
+39,Melissa Edwards,Operations,88899.13,64,Female,South Africa,1537,2020-08-14,Yes
+40,Pamela Cooper,Sales,80907.08,30,Non-binary,Singapore,47,2018-07-25,Yes
+41,Elizabeth Baker,Sales,94091.09,42,Female,United States,288,2018-08-15,Yes
+42,Edward Williams,HR,71795.62,59,Non-binary,Australia,1984,2020-08-14,Yes
+43,Joshua Mitchell,Operations,98435.9,42,Male,Brazil,747,2020-08-05,Yes
+44,Nicole King,Operations,73779.2,54,Non-binary,Japan,180,2021-08-23,Yes
+45,Amy Nguyen,Finance,80019.82,65,Female,Italy,1256,2021-08-31,Yes
+46,Douglas Hill,Sales,49330.78,50,Female,Norway,644,2022-09-08,Yes
+47,Jacob Scott,Finance,84875.43,44,Male,Switzerland,1414,2017-11-20,Yes
+48,Douglas Chavez,Engineering,126398.36,55,Female,Canada,370,2016-08-20,Yes
+49,Christopher Cook,Operations,73297.34,57,Non-binary,Ireland,580,2020-06-21,No
+50,Nancy Scott,HR,85872.75,55,Male,India,1710,2016-04-26,Yes
+51,Linda Wood,Engineering,106694.79,55,Non-binary,Spain,883,2021-09-18,Yes
+52,Stephen Ramos,Support,64729.93,51,Female,Japan,307,2021-12-03,Yes
+53,Jason Lopez,Engineering,145047.18,38,Non-binary,Finland,1730,2026-01-20,Yes
+54,Pamela Green,Legal,140391.91,54,Male,Singapore,403,2024-03-12,Yes
+55,Patrick Brooks,Legal,109391.16,39,Male,South Africa,1498,2018-12-11,Yes
+56,William James,Legal,129171.15,33,Non-binary,Netherlands,608,2019-11-27,Yes
+57,Betty Gomez,Marketing,69592.57,31,Non-binary,South Africa,637,2020-04-20,Yes
+58,Elizabeth Thompson,Procurement,67404.76,37,Non-binary,Norway,609,2018-09-23,Yes
+59,Carolyn Baker,Marketing,98027.16,52,Female,New Zealand,1747,2017-10-28,Yes
+60,Nicole Wilson,Marketing,60976.0,62,Male,Netherlands,272,2018-04-27,Yes
+61,Steven Campbell,Support,53942.95,33,Female,United States,779,2024-05-06,Yes
+62,Rebecca Howard,Marketing,58254.05,36,Non-binary,United Arab Emirates,268,2025-03-22,Yes
+63,Betty Smith,Sales,79312.34,56,Non-binary,Saudi Arabia,474,2020-09-09,Yes
+64,Donald Rogers,Finance,115301.62,32,Male,Mexico,937,2018-02-12,Yes
+65,Andrew Clark,Finance,83264.14,46,Non-binary,New Zealand,1788,2024-03-08,Yes
+66,Jason Lewis,Support,50761.43,38,Female,Australia,266,2017-07-12,Yes
+67,Cynthia Morris,Marketing,73253.69,44,Male,Switzerland,1058,2020-12-19,Yes
+68,Jacob Richardson,Operations,99674.31,40,Non-binary,India,734,2017-06-17,Yes
+69,Eric Cooper,Operations,64653.59,63,Male,Singapore,429,2024-02-06,Yes
+70,Douglas Ward,Support,45852.09,25,Non-binary,Denmark,1518,2025-04-13,Yes
+71,John Mitchell,Operations,95218.55,37,Male,United States,764,2023-03-31,Yes
+72,Debra Adams,Support,69198.05,34,Male,Finland,784,2025-10-13,Yes
+73,Janet Ramirez,HR,52997.54,21,Non-binary,Mexico,1288,2017-10-26,Yes
+74,Justin Wright,Legal,154074.9,59,Female,Sweden,1994,2022-04-07,Yes
+75,Helen Hernandez,HR,66564.16,32,Female,Netherlands,777,2024-11-02,Yes
+76,Lisa Parker,HR,78991.42,63,Female,Spain,879,2016-06-09,Yes
+77,Mark Harris,HR,88117.68,62,Female,France,1039,2023-04-07,Yes
+78,Jacob Wright,Support,56392.05,59,Non-binary,Spain,409,2017-04-11,Yes
+79,Brenda Lewis,Sales,89366.35,65,Female,France,1766,2018-08-20,Yes
+80,Steven James,Marketing,80029.05,51,Male,Spain,1680,2017-11-22,Yes
+81,Angela Lee,Marketing,56046.99,24,Male,South Korea,94,2025-06-02,Yes
+82,Thomas Jackson,Support,41378.63,63,Non-binary,United Arab Emirates,1573,2023-08-02,Yes
+83,Joseph Moore,Legal,146932.77,48,Non-binary,Canada,1792,2022-06-02,Yes
+84,Ashley Ward,Engineering,144480.05,65,Male,France,1455,2026-01-08,Yes
+85,Mark Adams,Procurement,90671.2,29,Female,Italy,1141,2020-01-20,Yes
+86,Rebecca Williams,Legal,147450.09,32,Female,Denmark,1959,2022-04-08,Yes
+87,Brian Richardson,Support,64226.97,37,Male,Germany,603,2026-01-24,Yes
+88,Gary Rodriguez,Procurement,86619.56,23,Male,Australia,877,2024-05-11,Yes
+89,Anna Wright,Finance,73360.1,51,Non-binary,South Africa,1921,2016-02-28,Yes
+90,George Chavez,Engineering,88258.72,43,Non-binary,United Kingdom,270,2017-04-17,Yes
+91,Katherine Flores,Sales,48818.23,45,Non-binary,India,1475,2024-12-28,Yes
+92,Stephen Moore,Support,47816.59,42,Female,Finland,1667,2019-09-30,Yes
+93,Kimberly Nelson,Engineering,91097.67,41,Male,United Arab Emirates,1746,2025-06-17,Yes
+94,Christine Torres,Marketing,50059.87,39,Non-binary,Australia,1419,2016-03-10,No
+95,Amanda Reed,Procurement,88322.9,33,Male,Canada,121,2016-07-20,Yes
+96,Michael Wood,Operations,62698.32,50,Non-binary,Netherlands,219,2018-02-18,Yes
+97,Carol Martinez,HR,88930.07,38,Female,Denmark,842,2017-08-16,Yes
+98,Thomas Ramos,Sales,55304.79,50,Female,Norway,1454,2019-07-01,Yes
+99,Paul Miller,Support,64659.12,51,Non-binary,Sweden,1200,2019-11-13,Yes
+100,Emily Moore,Support,52533.93,37,Female,United Kingdom,196,2025-11-10,Yes
+101,Christopher Edwards,Sales,89804.97,38,Male,South Africa,613,2025-02-12,Yes
+102,Patricia Gutierrez,Engineering,113904.93,58,Male,France,1644,2021-03-02,Yes
+103,Linda Parker,Engineering,140910.51,34,Non-binary,Spain,1432,2021-06-12,Yes
+104,Anthony Lee,Operations,105844.73,29,Non-binary,Sweden,1725,2025-04-11,Yes
+105,Debra Gonzalez,Procurement,79566.58,42,Male,India,364,2022-11-01,Yes
+106,Richard Cooper,Legal,165639.15,48,Male,United Kingdom,1923,2019-10-24,Yes
+107,David Watson,Procurement,68250.23,52,Female,Canada,1454,2023-03-29,Yes
+108,Justin Garcia,Support,64208.46,29,Female,Finland,1928,2022-05-09,Yes
+109,Carolyn Lee,Operations,56060.89,34,Female,New Zealand,875,2022-10-05,Yes
+110,Samantha Stewart,Operations,102972.36,21,Non-binary,Sweden,138,2025-09-11,Yes
+111,Sharon Campbell,Support,42255.61,48,Female,Australia,549,2023-07-15,Yes
+112,Karen Ramos,Finance,96199.32,43,Male,South Africa,1418,2018-06-16,Yes
+113,Linda Ramirez,Operations,90053.09,27,Male,United Kingdom,583,2017-01-27,Yes
+114,Linda Wilson,Sales,52648.86,31,Male,Australia,677,2020-10-11,Yes
+115,Jason Cook,Marketing,82402.39,51,Female,Brazil,1275,2016-12-24,Yes
+116,Anna Gutierrez,Procurement,76973.43,44,Non-binary,New Zealand,1616,2022-11-02,Yes
+117,Jason Roberts,Support,57153.71,52,Non-binary,New Zealand,1217,2017-05-08,Yes
+118,Daniel White,Procurement,79912.03,54,Non-binary,South Africa,319,2025-11-09,Yes
+119,Helen Kelly,Finance,108222.89,32,Male,New Zealand,1251,2020-11-01,Yes
+120,Jerry Gomez,Legal,152891.87,60,Male,Australia,1391,2020-09-29,Yes
+121,Jacob Kelly,Sales,82754.88,35,Male,Netherlands,1111,2026-01-02,Yes
+122,Emma Gonzalez,Legal,188037.42,48,Non-binary,Norway,1955,2020-02-12,Yes
+123,Donna Campbell,Procurement,76407.69,22,Male,Brazil,546,2017-05-22,Yes
+124,Matthew Ward,Operations,69819.73,56,Female,South Korea,1437,2019-11-12,Yes
+125,Edward Bailey,Finance,79864.18,27,Female,Norway,1746,2017-08-31,Yes
+126,Paul Jackson,Sales,64056.29,35,Male,Switzerland,901,2020-09-28,Yes
+127,Dennis Davis,Operations,68619.23,57,Male,Denmark,105,2019-05-30,No
+128,Mary Nelson,Operations,68918.21,62,Non-binary,Germany,684,2016-04-28,No
+129,Helen Richardson,Sales,93661.68,53,Male,Germany,1773,2023-06-04,Yes
+130,Christopher Ortiz,Operations,84027.98,55,Non-binary,Ireland,1116,2019-03-01,Yes
+131,Stephen Collins,Finance,106004.95,21,Female,Norway,235,2022-10-16,Yes
+132,Joseph Brown,Engineering,92407.52,39,Non-binary,Germany,714,2017-09-11,Yes
+133,Helen Walker,Finance,109095.89,30,Male,Canada,160,2022-01-14,No
+134,Amanda Kelly,Procurement,56979.82,38,Non-binary,South Korea,1696,2022-01-02,Yes
+135,Brian Bailey,Finance,109946.44,55,Female,Spain,1067,2025-09-25,Yes
+136,Kenneth Lee,Support,66079.77,61,Male,Ireland,1112,2026-06-08,Yes
+137,Cynthia Ward,Marketing,50502.46,48,Female,South Korea,1857,2025-08-23,Yes
+138,Sharon Brown,Marketing,89886.48,51,Female,Finland,1987,2020-09-17,Yes
+139,Katherine Adams,Engineering,134763.61,64,Female,Finland,1944,2016-08-29,Yes
+140,William Young,Engineering,89078.64,33,Male,Canada,738,2022-12-16,Yes
+141,Emma Taylor,Finance,120035.41,24,Non-binary,South Korea,1618,2020-11-07,Yes
+142,Kenneth Smith,Marketing,65758.62,61,Male,South Africa,1541,2025-07-18,Yes
+143,Janet Richardson,Support,41573.35,52,Non-binary,Singapore,498,2024-04-06,Yes
+144,Melissa Morales,Support,53858.35,30,Female,India,313,2021-02-27,Yes
+145,Timothy Parker,Finance,112065.17,49,Non-binary,United Kingdom,911,2024-09-14,Yes
+146,Jessica Wilson,HR,71648.07,53,Non-binary,Italy,806,2020-08-01,Yes
+147,Timothy Phillips,Finance,126829.41,27,Non-binary,United Kingdom,521,2016-06-22,Yes
+148,Donald Reed,Operations,92962.89,41,Female,Saudi Arabia,974,2020-08-02,Yes
+149,Brian Kelly,HR,89462.84,38,Female,Norway,732,2024-06-09,Yes
+150,Walter Campbell,Engineering,85155.48,32,Non-binary,Denmark,1210,2022-05-13,Yes
+151,Shirley Scott,Legal,170591.37,50,Non-binary,Finland,455,2023-08-22,Yes
+152,Justin Mendoza,Sales,46860.78,47,Non-binary,South Africa,630,2022-08-03,Yes
+153,Paul Stewart,Procurement,67465.22,31,Female,South Korea,1213,2022-01-22,Yes
+154,Pamela Carter,Sales,45256.57,29,Non-binary,Germany,986,2024-09-10,Yes
+155,Stephen Nguyen,Finance,72384.44,29,Male,Sweden,1122,2024-12-27,Yes
+156,Cynthia James,HR,88758.68,32,Female,Australia,1033,2016-05-26,Yes
+157,Mary Morgan,Legal,150510.58,49,Male,Sweden,1161,2016-02-18,Yes
+158,Angela Hill,Finance,64920.02,23,Non-binary,Saudi Arabia,6,2025-01-22,Yes
+159,Gary Brooks,Engineering,134565.71,36,Non-binary,Sweden,356,2016-04-19,Yes
+160,William Howard,Legal,106246.77,35,Female,Saudi Arabia,1976,2023-07-22,Yes
+161,Elizabeth Scott,Support,61527.1,22,Non-binary,Norway,322,2021-10-12,Yes
+162,Angela Adams,Finance,108730.46,53,Female,United Arab Emirates,106,2026-04-06,Yes
+163,Jennifer White,Operations,78839.2,41,Male,Finland,94,2020-12-21,Yes
+164,Angela Harris,Engineering,107512.7,44,Male,Netherlands,758,2019-03-06,Yes
+165,Ronald Williams,Legal,111822.05,35,Male,India,1912,2022-08-20,Yes
+166,Matthew Rodriguez,Sales,92173.15,65,Non-binary,France,1685,2018-05-18,Yes
+167,Nicholas Howard,Operations,99508.27,61,Non-binary,Saudi Arabia,231,2016-08-15,Yes
+168,Douglas Diaz,Legal,126408.62,58,Non-binary,Japan,243,2018-01-06,No
+169,Laura Harris,HR,64725.34,43,Female,Netherlands,980,2023-08-19,Yes
+170,Eric Miller,Sales,64964.94,31,Non-binary,Germany,360,2024-03-07,Yes
+171,Richard Morales,Finance,75872.17,65,Male,Germany,194,2019-08-08,Yes
+172,Stephanie Evans,Finance,96288.49,41,Female,United Arab Emirates,1347,2020-01-24,Yes
+173,Mary Miller,Legal,94625.12,26,Male,Australia,1706,2020-10-07,Yes
+174,Joseph Clark,Operations,95767.59,23,Female,Australia,766,2017-11-07,Yes
+175,Jennifer Allen,HR,74518.55,33,Female,Switzerland,288,2017-11-02,Yes
+176,Sarah Gomez,Legal,180143.26,59,Non-binary,United Arab Emirates,1685,2019-03-25,Yes
+177,Jennifer Lewis,HR,65948.04,60,Female,South Korea,1998,2017-07-11,Yes
+178,Mary Howard,Legal,167932.93,24,Male,Finland,1195,2023-03-15,Yes
+179,Kimberly Harris,Operations,73989.77,45,Male,Denmark,1393,2020-10-31,Yes
+180,Jonathan Wright,Legal,189154.94,25,Female,United Arab Emirates,1915,2021-11-14,Yes
+181,Anna Turner,Sales,72977.92,46,Male,Germany,1623,2025-09-02,Yes
+182,Daniel Ramos,Marketing,83584.32,41,Male,Mexico,1627,2022-08-02,Yes
+183,Donna Mitchell,Sales,63112.35,53,Non-binary,France,1578,2018-08-04,Yes
+184,Michelle Ward,HR,72710.82,45,Non-binary,Spain,314,2016-10-18,No
+185,Steven Kim,Engineering,136060.08,45,Male,Japan,128,2026-04-14,Yes
+186,Debra Jackson,Finance,67180.53,21,Female,Canada,1568,2026-03-26,Yes
+187,Ronald Campbell,HR,53625.9,57,Non-binary,Sweden,679,2019-05-14,Yes
+188,Eric Johnson,Engineering,126740.48,53,Non-binary,United Kingdom,1162,2025-06-17,Yes
+189,Donald Hall,Legal,92268.34,50,Male,Japan,1306,2020-09-02,Yes
+190,Joshua Davis,Support,72854.03,41,Female,South Korea,1260,2025-06-09,Yes
+191,Sarah Roberts,Engineering,93559.92,44,Male,Brazil,1435,2025-03-25,Yes
+192,John Martinez,Engineering,108583.44,46,Male,United States,1411,2019-05-26,Yes
+193,Michael Phillips,Sales,72447.27,60,Male,United Kingdom,1628,2019-07-10,Yes
+194,Walter Hill,Finance,63897.06,56,Male,Italy,913,2023-04-14,No
+195,Elizabeth Cruz,HR,75653.5,59,Female,South Korea,1454,2019-08-26,Yes
+196,Timothy Carter,Sales,51599.0,30,Male,Switzerland,1911,2025-04-12,Yes
+197,Larry Martinez,Procurement,67805.17,59,Male,Ireland,1077,2019-10-23,Yes
+198,Linda King,Procurement,88597.39,49,Non-binary,Brazil,500,2023-09-17,Yes
+199,Eric Roberts,HR,53812.76,45,Female,Saudi Arabia,494,2020-12-17,Yes
+200,Sandra Phillips,Sales,62013.07,45,Male,Switzerland,913,2018-04-16,Yes
+201,David Bailey,Sales,85848.72,50,Female,Switzerland,117,2021-07-05,No
+202,Edward Rogers,Marketing,87630.86,52,Non-binary,France,1696,2023-09-11,Yes
+203,Jessica Lee,Legal,127497.32,30,Non-binary,South Korea,1745,2026-01-26,Yes
+204,Ronald Reed,Operations,103807.12,63,Male,Netherlands,1298,2018-08-01,Yes
+205,Debra Perez,Operations,75043.85,35,Male,United Arab Emirates,1340,2025-11-30,Yes
+206,Amanda Scott,Sales,68250.38,29,Female,United Arab Emirates,285,2019-03-12,Yes
+207,Barbara Ward,Procurement,73848.06,62,Non-binary,Ireland,423,2023-12-31,Yes
+208,John White,Sales,82755.17,22,Female,India,712,2021-10-05,Yes
+209,Jeffrey Torres,Support,59495.23,41,Non-binary,United States,238,2026-03-22,Yes
+210,Mark Ramos,Support,65732.61,52,Male,Spain,409,2024-11-11,No
+211,Emma Sanchez,Operations,55994.36,51,Male,United Arab Emirates,1676,2019-01-03,Yes
+212,Barbara Roberts,Finance,124113.87,36,Male,United Kingdom,654,2022-10-25,Yes
+213,Jerry Phillips,Sales,89505.64,34,Non-binary,India,638,2016-05-03,Yes
+214,Brian Scott,HR,57196.46,49,Non-binary,Australia,744,2020-10-14,Yes
+215,Joshua Rogers,Procurement,85915.16,60,Male,India,1787,2023-09-13,Yes
+216,Paul Kelly,Engineering,150395.29,38,Non-binary,United States,1097,2024-03-21,Yes
+217,Jacob Peterson,Procurement,81975.46,35,Non-binary,Denmark,204,2024-10-06,Yes
+218,Emily Williams,Sales,77086.63,42,Male,United States,414,2022-05-23,Yes
+219,Sharon White,Sales,68812.51,65,Male,Australia,388,2021-06-22,Yes
+220,Joseph Hill,Support,61955.85,52,Non-binary,Norway,423,2018-04-28,Yes
+221,Ronald Williams,Procurement,82372.89,25,Non-binary,Norway,1550,2017-06-28,Yes
+222,Angela Brooks,Support,44905.92,42,Non-binary,Japan,1470,2016-04-21,Yes
+223,Joseph Howard,HR,85531.32,39,Non-binary,Canada,1566,2022-03-02,Yes
+224,Amy Baker,Marketing,94047.89,28,Female,Ireland,935,2017-08-31,Yes
+225,Jerry Collins,Finance,104210.05,55,Female,France,1843,2025-01-18,Yes
+226,Ryan Adams,Operations,89920.37,26,Male,Mexico,1447,2025-09-06,Yes
+227,Edward Anderson,Marketing,103873.19,49,Male,Mexico,1381,2023-09-06,Yes
+228,Margaret Diaz,Finance,70095.95,50,Male,Mexico,214,2025-06-19,Yes
+229,Susan Miller,HR,61722.7,44,Non-binary,United Kingdom,1817,2019-05-16,Yes
+230,Stephen Ward,Sales,88000.41,35,Female,New Zealand,1984,2024-10-27,No
+231,Steven Jones,HR,84348.14,37,Female,Saudi Arabia,1540,2019-10-30,Yes
+232,Emma Gomez,Legal,148503.02,47,Female,Singapore,125,2025-10-14,Yes
+233,Sarah Brown,Operations,59636.23,59,Non-binary,Finland,1045,2017-02-26,Yes
+234,Nicole Jones,Support,52832.54,60,Non-binary,Italy,95,2020-03-19,Yes
+235,Jessica Edwards,Sales,89638.74,32,Female,Brazil,1181,2025-06-16,Yes
+236,Shirley Hill,Marketing,97919.6,45,Non-binary,Brazil,1295,2018-08-04,Yes
+237,Mary Howard,Support,53825.18,63,Female,France,1681,2019-09-10,Yes
+238,Ronald Brooks,Marketing,95502.15,57,Non-binary,Mexico,1399,2016-04-30,No
+239,Heather Gonzalez,Sales,85412.12,48,Non-binary,Japan,1574,2021-01-27,Yes
+240,Ashley Adams,Support,57748.41,58,Female,United States,1966,2024-09-19,Yes
+241,Ronald Hall,Operations,62309.06,35,Non-binary,Netherlands,994,2020-08-10,Yes
+242,Eric Sanchez,Sales,70581.9,21,Female,France,1205,2019-10-31,Yes
+243,Harold Kim,Operations,97049.8,29,Female,Mexico,1989,2019-12-26,Yes
+244,Matthew Hernandez,Finance,65097.27,30,Female,Spain,1114,2016-02-08,Yes
+245,Amy Rivera,Engineering,128261.54,43,Male,Canada,1740,2016-08-27,Yes
+246,Sandra Perez,Support,68267.88,37,Non-binary,Ireland,1922,2020-12-01,Yes
+247,David Wright,Procurement,86486.6,63,Female,Australia,106,2022-02-20,Yes
+248,Kimberly Nguyen,Procurement,93757.34,58,Female,Japan,1772,2018-07-09,Yes
+249,Linda Kim,Sales,92183.24,54,Female,South Korea,1591,2018-04-17,Yes
+250,Stephen Bailey,Engineering,85880.1,34,Non-binary,United Kingdom,1935,2025-01-04,Yes
+251,Cynthia Jones,Procurement,75137.23,64,Male,United Arab Emirates,1626,2017-12-29,Yes
+252,Peter King,Sales,82343.72,35,Non-binary,Netherlands,139,2026-03-10,Yes
+253,Stephen Thomas,Procurement,75556.94,28,Non-binary,South Korea,1041,2019-11-03,No
+254,Cynthia Smith,Support,63967.06,51,Female,Switzerland,653,2017-05-25,Yes
+255,Robert Young,Finance,122966.77,57,Male,Sweden,1902,2021-08-10,Yes
+256,Cynthia Wood,Operations,58374.78,29,Male,Mexico,1999,2019-03-03,Yes
+257,Anna Kim,Operations,84018.68,62,Non-binary,Ireland,1223,2018-11-26,Yes
+258,Amanda Wright,Procurement,61279.66,23,Female,Netherlands,1713,2026-02-28,Yes
+259,Nancy Roberts,Operations,95203.94,47,Female,Brazil,1000,2023-03-13,No
+260,Ronald Hill,Engineering,147373.92,44,Male,Singapore,1246,2023-03-19,Yes
+261,James Johnson,Legal,96895.9,64,Male,Japan,1532,2026-02-08,Yes
+262,Heather Diaz,Engineering,93194.15,52,Non-binary,Spain,355,2018-01-18,Yes
+263,Eric Williams,Marketing,83684.31,31,Non-binary,Spain,1368,2023-05-08,Yes
+264,Stephen Martinez,Legal,97408.37,60,Female,Spain,1249,2024-01-20,Yes
+265,Timothy Hall,Marketing,70392.94,39,Female,Spain,1285,2023-12-03,Yes
+266,Maria Morales,Support,68752.91,36,Non-binary,Italy,529,2023-09-21,Yes
+267,Charles Nguyen,Engineering,94201.66,56,Male,Norway,1833,2018-10-03,Yes
+268,Harold Rogers,Sales,58058.51,64,Male,Norway,1748,2017-08-19,Yes
+269,Daniel Thomas,Support,50153.92,55,Female,Canada,40,2025-08-22,Yes
+270,Timothy Clark,Support,48481.9,37,Female,Italy,392,2023-03-30,Yes
+271,David Brooks,Sales,61173.95,32,Female,Canada,1732,2021-08-02,Yes
+272,Charles Smith,Support,58561.35,53,Female,Sweden,1471,2019-03-31,No
+273,Karen Gonzalez,Sales,74042.42,53,Non-binary,Australia,1082,2024-12-22,Yes
+274,Donald Brown,Sales,77516.45,21,Female,Netherlands,722,2021-08-10,Yes
+275,Anthony James,Legal,141423.37,29,Female,United Arab Emirates,312,2025-05-31,Yes
+276,Margaret Adams,Legal,191165.22,35,Non-binary,India,546,2016-10-19,No
+277,Donna Cook,Legal,178588.04,33,Non-binary,Mexico,1661,2019-02-24,Yes
+278,Edward Garcia,Support,72686.23,23,Male,Germany,94,2020-05-24,Yes
+279,Emma Johnson,Finance,65918.06,34,Female,Switzerland,420,2025-09-28,Yes
+280,Jessica White,Support,49442.76,57,Male,Germany,1916,2021-06-02,Yes
+281,Amanda Hernandez,Sales,57542.18,51,Male,South Africa,293,2016-12-04,Yes
+282,Jason Evans,HR,53507.9,23,Non-binary,Singapore,625,2022-07-08,No
+283,Elizabeth Allen,Marketing,55004.95,34,Male,Germany,1261,2017-04-03,No
+284,Ronald Kim,Engineering,111489.69,51,Female,United Kingdom,809,2022-04-19,Yes
+285,Daniel Bennett,Support,42236.47,62,Non-binary,France,238,2022-04-19,No
+286,Rachel Ramos,Sales,63350.36,27,Non-binary,United Kingdom,533,2016-06-09,Yes
+287,Helen Martinez,Operations,102353.29,59,Non-binary,Denmark,1821,2017-02-27,Yes
+288,Michael Stewart,Finance,97286.59,59,Female,Switzerland,356,2023-06-27,No
+289,Jennifer Bailey,Legal,169739.91,30,Male,South Korea,1260,2017-02-03,Yes
+290,Susan Green,Sales,80977.63,63,Non-binary,Singapore,557,2025-04-12,Yes
+291,Patrick Moore,HR,71796.37,33,Female,France,448,2016-06-01,Yes
+292,Carol Wood,HR,78175.39,47,Female,France,5,2019-09-16,Yes
+293,Anthony Garcia,Operations,74158.96,31,Male,South Africa,1200,2016-04-24,Yes
+294,Michael Nguyen,Engineering,136080.07,65,Non-binary,South Africa,1163,2018-12-29,Yes
+295,Susan Clark,Procurement,68079.44,59,Female,Brazil,518,2018-08-05,Yes
+296,Carolyn Ramirez,Procurement,74136.39,34,Male,Norway,36,2021-08-08,Yes
+297,Anna Gonzalez,HR,68390.54,37,Non-binary,Brazil,1595,2019-09-19,Yes
+298,Douglas Wood,Engineering,92344.43,22,Male,Canada,114,2018-11-27,No
+299,Karen Ramirez,Procurement,85734.27,47,Male,Finland,825,2022-06-23,Yes
+300,Kenneth Mendoza,Support,65656.81,24,Female,Spain,692,2025-05-03,Yes
+301,Kevin Wright,HR,81345.67,35,Female,Sweden,5,2018-01-12,Yes
+302,Dennis Richardson,Engineering,145038.22,62,Non-binary,United States,1015,2018-06-20,Yes
+303,Susan Williams,HR,56933.25,37,Female,Canada,1070,2016-10-26,Yes
+304,Jacob Bailey,Support,52125.29,51,Female,Sweden,427,2025-10-27,Yes
+305,Michelle Ortiz,Operations,107373.89,58,Male,New Zealand,144,2024-07-03,Yes
+306,Debra Cook,HR,51901.63,34,Male,United Kingdom,210,2019-06-02,Yes
+307,Maria Reyes,HR,86872.7,40,Female,Finland,21,2022-09-28,Yes
+308,Patrick Wilson,Support,74891.65,26,Female,Australia,1066,2022-11-01,Yes
+309,Lisa Davis,Procurement,80861.78,50,Non-binary,South Korea,93,2016-02-22,Yes
+310,Donna Walker,Procurement,53115.56,64,Non-binary,Denmark,873,2023-12-17,Yes
+311,Melissa Hill,Sales,77786.17,46,Non-binary,India,489,2020-03-09,Yes
+312,Sharon Edwards,Operations,85710.71,52,Male,Netherlands,900,2025-06-05,Yes
+313,Kathleen Perez,HR,73626.04,53,Non-binary,Italy,1770,2025-07-15,Yes
+314,Karen Morgan,HR,70568.31,39,Non-binary,Japan,1546,2018-01-10,Yes
+315,Edward Ramirez,Support,47178.82,53,Male,Singapore,264,2017-01-16,Yes
+316,Emma Cruz,Finance,104148.27,26,Female,Switzerland,1979,2020-07-07,Yes
+317,Walter Flores,Marketing,93229.47,47,Non-binary,Australia,778,2019-01-02,Yes
+318,Ryan Lewis,HR,59975.85,39,Female,Norway,1118,2018-08-12,Yes
+319,Laura Sanchez,Operations,74758.49,53,Male,South Korea,1692,2018-01-26,Yes
+320,Sandra Sanchez,Procurement,88081.65,42,Female,Finland,99,2025-04-16,Yes
+321,Douglas Wilson,Operations,69245.29,34,Non-binary,India,911,2024-12-15,No
+322,Rachel Perez,Sales,52919.32,43,Female,Saudi Arabia,1806,2024-04-04,Yes
+323,Daniel Williams,Procurement,51626.26,33,Female,Brazil,945,2023-06-20,Yes
+324,Carolyn Flores,Finance,70213.89,40,Female,United Arab Emirates,1329,2018-08-30,Yes
+325,Paul Rivera,Engineering,152440.13,51,Female,Netherlands,1473,2024-08-03,Yes
+326,William Mendoza,Sales,85131.25,33,Female,Singapore,1600,2019-02-11,Yes
+327,George Brown,Procurement,71980.69,48,Female,Netherlands,214,2022-01-01,Yes
+328,Maria Morgan,Operations,78024.95,22,Female,South Africa,1691,2020-07-16,Yes
+329,Walter Howard,Procurement,80416.07,34,Female,New Zealand,1826,2018-03-16,Yes
+330,Jason Flores,Operations,65541.4,46,Non-binary,Saudi Arabia,300,2026-03-14,No
+331,Jeffrey Mendoza,Finance,75483.51,30,Male,United States,962,2021-04-30,Yes
+332,Gregory Baker,Finance,87306.22,27,Male,Netherlands,1497,2024-06-04,Yes
+333,Stephen Campbell,Legal,151433.95,43,Male,Mexico,967,2022-02-03,Yes
+334,Joseph Reyes,Legal,108859.13,61,Non-binary,Saudi Arabia,182,2017-10-23,Yes
+335,Raymond Turner,Finance,72382.4,54,Male,Netherlands,243,2020-07-31,Yes
+336,Paul Robinson,Sales,62497.69,44,Non-binary,United States,123,2021-09-21,Yes
+337,Stephanie Hill,Support,45747.55,39,Female,Denmark,1755,2022-11-11,Yes
+338,Charles Kim,Procurement,56676.65,26,Non-binary,Saudi Arabia,1794,2018-02-04,Yes
+339,Debra Walker,Finance,83058.26,27,Male,Germany,1415,2023-08-14,Yes
+340,Amanda Sanchez,HR,72867.19,25,Non-binary,Japan,1230,2025-04-12,Yes
+341,Patrick Moore,Procurement,78962.19,28,Female,United States,1388,2020-02-12,Yes
+342,George Davis,Engineering,159670.9,64,Male,Canada,328,2018-08-01,Yes
+343,Elizabeth Collins,Procurement,61124.0,55,Male,Netherlands,1814,2021-11-23,Yes
+344,Heather Cooper,Sales,74370.67,61,Non-binary,Denmark,632,2026-03-27,Yes
+345,Nicole Johnson,HR,74036.69,24,Female,New Zealand,1361,2023-04-25,Yes
+346,Margaret Thompson,Operations,80313.07,64,Male,Mexico,1167,2017-05-26,Yes
+347,Melissa Mitchell,Sales,76710.43,27,Male,United Kingdom,1225,2026-03-03,No
+348,Barbara Perez,Engineering,86740.8,64,Female,France,1141,2023-05-06,Yes
+349,Joseph Gutierrez,Legal,175995.57,60,Male,United States,481,2020-10-20,Yes
+350,Katherine Ramos,Finance,116946.78,65,Non-binary,United States,1745,2022-12-05,Yes
+351,Deborah Mendoza,HR,65158.62,24,Non-binary,Italy,1250,2022-02-13,Yes
+352,Samantha Lopez,HR,50179.72,42,Female,Mexico,538,2017-05-22,Yes
+353,Amy Torres,Operations,85723.68,53,Male,Ireland,123,2017-04-24,Yes
+354,Emily Murphy,Procurement,70137.54,26,Non-binary,Germany,1902,2021-08-20,Yes
+355,Deborah Taylor,HR,80324.32,41,Male,Italy,463,2017-05-18,Yes
+356,Michael Sanchez,Operations,66683.12,33,Female,United States,1163,2016-06-04,Yes
+357,Stephen Turner,Marketing,92524.34,64,Male,India,1233,2024-12-25,Yes
+358,Brian Wilson,Support,40106.96,31,Male,France,1891,2017-05-13,Yes
+359,Kimberly Nguyen,Finance,67141.96,65,Non-binary,Switzerland,1695,2025-10-03,Yes
+360,Laura Young,Engineering,134031.0,65,Non-binary,Japan,1815,2020-04-12,Yes
+361,Katherine Carter,HR,80672.1,38,Male,Switzerland,1386,2024-10-14,Yes
+362,Stephen Smith,Finance,90637.04,34,Female,South Korea,62,2017-09-28,Yes
+363,Nancy Parker,Procurement,53833.91,30,Male,Ireland,1339,2022-04-27,Yes
+364,Christine Adams,Marketing,96449.06,29,Male,Mexico,528,2020-08-10,No
+365,Timothy Hernandez,Procurement,86630.39,26,Female,India,1885,2023-04-24,Yes
+366,Linda Rogers,Engineering,108876.58,58,Female,Australia,1360,2025-01-26,Yes
+367,Gregory Mendoza,Engineering,119364.25,30,Male,Netherlands,495,2017-04-07,Yes
+368,Amy Nguyen,Legal,103364.05,31,Non-binary,Norway,468,2018-06-17,Yes
+369,Eric Perez,Support,74477.96,29,Male,Australia,1019,2024-06-14,Yes
+370,Jessica Martin,Legal,184277.24,50,Male,Netherlands,1281,2017-04-08,Yes
+371,Anthony Collins,Procurement,89765.42,40,Female,Spain,1870,2016-03-13,No
+372,Jerry Wilson,Sales,49943.98,48,Male,Denmark,1207,2017-01-25,Yes
+373,Emily Gomez,Engineering,130230.89,25,Female,Sweden,562,2019-03-17,No
+374,Jennifer Morris,Support,45653.11,49,Female,New Zealand,1693,2022-01-29,No
+375,Thomas Mendoza,Finance,124338.03,39,Non-binary,India,1374,2022-03-30,Yes
+376,Robert Mitchell,Operations,59807.09,38,Female,Canada,1150,2018-10-04,Yes
+377,Amanda Watson,Operations,61361.24,25,Non-binary,Netherlands,451,2017-01-05,Yes
+378,Charles Johnson,Support,50957.72,30,Male,Norway,1575,2024-04-30,Yes
+379,Sandra Turner,HR,88120.94,44,Female,Switzerland,1443,2020-05-02,Yes
+380,Gregory Nelson,Finance,71402.86,44,Male,United Arab Emirates,615,2023-01-15,Yes
+381,William Adams,Legal,151508.23,59,Non-binary,Canada,386,2020-01-01,Yes
+382,Carolyn Stewart,Procurement,92834.85,37,Female,Mexico,1549,2016-01-24,Yes
+383,Edward Miller,HR,65196.97,42,Female,United Arab Emirates,529,2025-09-26,Yes
+384,Rachel Howard,Legal,95665.73,58,Non-binary,Mexico,1297,2018-08-28,Yes
+385,Debra Morgan,Legal,147481.43,39,Female,Denmark,1021,2023-01-27,Yes
+386,Katherine Parker,Finance,111789.97,50,Female,United States,775,2022-07-04,Yes
+387,Amy Kim,Finance,110195.0,26,Male,India,885,2022-08-23,Yes
+388,Robert Reed,Engineering,149722.76,45,Male,Canada,1520,2023-03-02,Yes
+389,Elizabeth Wright,Finance,102439.64,34,Male,Germany,880,2026-06-15,No
+390,Carol Bennett,Legal,156453.5,64,Female,Brazil,1092,2020-03-02,Yes
+391,Edward Ward,Procurement,86938.04,28,Female,Ireland,27,2023-11-26,Yes
+392,Jason Martin,HR,82898.02,51,Male,Australia,1673,2021-01-02,Yes
+393,Joshua Martin,Legal,122131.7,62,Female,France,1865,2025-01-22,Yes
+394,Linda Rivera,Legal,140177.04,40,Female,Australia,1370,2024-05-18,Yes
+395,Kevin Jones,HR,83012.58,48,Non-binary,Spain,674,2021-10-11,Yes
+396,Betty Allen,HR,67399.01,48,Male,Italy,1726,2021-04-15,Yes
+397,Walter Mendoza,Operations,61616.62,33,Female,South Africa,1305,2016-05-01,Yes
+398,Patrick Phillips,Operations,109477.55,62,Male,South Korea,1585,2017-01-27,Yes
+399,Anna Flores,Marketing,82951.51,48,Male,Netherlands,937,2018-11-16,No
+400,Laura Nguyen,HR,74801.23,39,Female,Sweden,1702,2025-01-13,Yes
+401,Peter Edwards,Engineering,156693.05,26,Non-binary,Brazil,22,2023-09-13,Yes
+402,Maria Hernandez,Finance,126984.99,29,Female,Spain,1114,2018-06-07,Yes
+403,Michael Diaz,Support,45009.49,57,Non-binary,Australia,566,2017-06-22,Yes
+404,Donald Ramirez,HR,59380.18,28,Male,Italy,1123,2020-05-14,Yes
+405,Helen Brown,Engineering,98085.7,62,Male,South Africa,626,2022-03-12,Yes
+406,Heather Walker,Sales,45498.47,37,Non-binary,Singapore,890,2023-10-30,Yes
+407,Amy Hall,Legal,122527.59,38,Male,Sweden,749,2019-11-29,Yes
+408,Elizabeth Reed,Procurement,54696.77,59,Male,Netherlands,684,2016-01-21,Yes
+409,Deborah Anderson,Procurement,83632.44,24,Female,Australia,996,2026-05-31,Yes
+410,Donna Nguyen,Operations,74222.47,48,Non-binary,New Zealand,49,2018-09-13,Yes
+411,Mary Torres,Procurement,89363.66,59,Non-binary,Finland,272,2017-08-30,Yes
+412,Andrew Collins,Procurement,50823.46,24,Non-binary,United Arab Emirates,752,2025-04-23,Yes
+413,Nicole Diaz,Finance,60659.53,33,Non-binary,Germany,1577,2020-12-06,Yes
+414,Gary Chavez,Finance,127453.22,28,Non-binary,Italy,85,2023-02-16,Yes
+415,Donna Gonzalez,Marketing,61245.51,45,Male,New Zealand,1770,2026-04-26,Yes
+416,Dennis Williams,Sales,74032.6,24,Male,Finland,563,2023-08-01,Yes
+417,Angela Allen,Procurement,93759.96,60,Male,Switzerland,1203,2023-07-05,No
+418,Brenda Walker,Legal,126634.78,59,Non-binary,Germany,909,2019-04-06,Yes
+419,Michelle Rivera,Support,43610.83,58,Non-binary,Sweden,60,2020-01-30,Yes
+420,Daniel Moore,Marketing,61547.52,29,Male,Canada,1250,2026-03-17,Yes
+421,Heather Bennett,Sales,93861.53,24,Female,United Arab Emirates,1184,2018-04-09,Yes
+422,Stephen Walker,HR,58407.34,39,Female,South Africa,1910,2017-10-04,Yes
+423,Amanda Lee,Operations,79902.91,54,Non-binary,Brazil,1473,2018-06-14,Yes
+424,Christopher Taylor,Finance,114219.26,56,Male,France,1535,2018-12-03,Yes
+425,David Johnson,Operations,61458.14,56,Female,France,965,2022-06-18,Yes
+426,Walter Martin,Finance,100402.87,47,Female,Denmark,503,2024-06-20,Yes
+427,Emily Adams,Procurement,91449.49,22,Female,Spain,1140,2026-01-12,Yes
+428,Rebecca Peterson,Legal,129307.39,49,Male,Brazil,261,2020-10-21,Yes
+429,Ronald Smith,Marketing,86326.13,26,Female,Australia,459,2019-06-24,Yes
+430,Cynthia Watson,Legal,138112.61,65,Female,Italy,40,2016-04-03,Yes
+431,Anna Jackson,HR,87432.5,47,Female,Sweden,1374,2020-04-30,Yes
+432,Emily Gray,Engineering,157824.8,27,Non-binary,France,1661,2024-04-10,Yes
+433,Linda Wright,Finance,100348.91,21,Non-binary,United States,984,2022-08-10,Yes
+434,Samantha Collins,HR,78112.3,23,Male,India,1726,2017-09-05,Yes
+435,Thomas James,Operations,99970.59,65,Female,Norway,29,2024-10-22,No
+436,James Howard,Finance,81406.15,36,Non-binary,Singapore,1564,2016-07-27,Yes
+437,Joseph Williams,Finance,96525.71,32,Non-binary,Mexico,954,2018-04-03,Yes
+438,Timothy Kim,Engineering,133350.38,63,Non-binary,Denmark,1596,2023-10-28,Yes
+439,Cynthia Edwards,Finance,114743.79,53,Female,Spain,14,2020-02-19,No
+440,Matthew Martinez,Procurement,53285.64,46,Male,Sweden,1637,2023-11-28,Yes
+441,Christopher Richardson,Legal,109501.79,53,Female,Saudi Arabia,947,2017-02-04,Yes
+442,Nicole Watson,Procurement,61386.52,34,Non-binary,France,1140,2017-01-12,Yes
+443,Mary Nguyen,Engineering,125331.04,61,Non-binary,Ireland,1234,2019-06-30,No
+444,Kathleen Jackson,Engineering,111954.04,50,Female,South Africa,1547,2020-05-23,Yes
+445,Christine Howard,Procurement,63144.02,51,Male,Norway,252,2026-01-27,Yes
+446,Patrick Parker,Operations,75973.31,47,Female,Italy,380,2018-08-16,Yes
+447,Kathleen Thomas,Support,60830.49,59,Female,Sweden,1859,2017-03-19,Yes
+448,Donna Lopez,Support,71149.18,41,Male,Sweden,749,2016-01-26,Yes
+449,Amy Scott,Legal,117273.07,41,Female,Finland,875,2025-04-12,Yes
+450,Mary Chavez,Marketing,92388.88,26,Non-binary,South Africa,746,2021-05-22,Yes
+451,Jennifer Chavez,Marketing,81379.54,29,Male,Denmark,479,2016-10-21,Yes
+452,Jeffrey Miller,Support,58662.94,60,Non-binary,France,1963,2018-09-07,Yes
+453,Cynthia Parker,Support,40965.67,26,Female,Spain,1627,2023-02-03,Yes
+454,Rachel Kim,Engineering,90996.69,60,Male,Japan,83,2017-07-21,Yes
+455,Kevin Cooper,Engineering,115867.5,21,Non-binary,New Zealand,1983,2025-07-08,Yes
+456,Emma Young,HR,51804.67,42,Female,Norway,284,2019-06-07,No
+457,Timothy Baker,HR,84676.29,21,Female,Netherlands,1796,2018-09-01,Yes
+458,Amy Flores,Marketing,77999.82,58,Male,South Africa,121,2019-12-27,No
+459,Raymond Lewis,HR,74234.42,57,Male,Ireland,960,2017-11-29,Yes
+460,Nicholas Gutierrez,Operations,106358.72,44,Female,New Zealand,1876,2016-10-01,Yes
+461,Ryan Wilson,Marketing,68480.31,36,Non-binary,United States,406,2018-12-05,Yes
+462,Christopher Chavez,Engineering,123682.43,32,Male,France,1154,2022-06-10,No
+463,Gregory Turner,Finance,126313.06,48,Non-binary,Netherlands,783,2026-03-24,Yes
+464,Stephanie Moore,Finance,66744.76,31,Female,Netherlands,1891,2021-09-13,Yes
+465,William Smith,Marketing,84213.45,22,Male,Norway,1623,2024-08-22,Yes
+466,Patricia White,Legal,188013.21,21,Non-binary,Canada,363,2025-02-23,No
+467,Robert Lopez,Marketing,101929.75,38,Male,South Africa,415,2020-05-19,Yes
+468,Jeffrey Lee,Support,50154.41,43,Non-binary,Australia,421,2018-11-20,Yes
+469,Carolyn Baker,Sales,87827.16,25,Non-binary,Finland,878,2026-05-22,Yes
+470,Jessica Morales,Legal,171063.02,65,Male,Brazil,1693,2020-06-05,Yes
+471,Anthony Edwards,Legal,145630.6,50,Female,Mexico,663,2024-12-11,Yes
+472,Ronald Nguyen,Marketing,95754.91,31,Male,United States,1418,2021-07-06,Yes
+473,Jeffrey Allen,Support,70324.18,64,Non-binary,Spain,238,2021-02-28,Yes
+474,Jeffrey Rogers,Legal,120596.18,22,Non-binary,South Korea,135,2016-11-13,Yes
+475,Stephen Peterson,HR,73140.76,60,Male,United States,658,2024-02-23,Yes
+476,James Peterson,Engineering,159212.52,34,Male,Switzerland,987,2026-04-17,Yes
+477,Paul Kim,HR,88112.27,46,Male,Australia,221,2021-09-18,No
+478,Carol Ward,Marketing,92976.87,21,Female,United Arab Emirates,35,2022-04-27,No
+479,Samantha Thompson,HR,69036.18,63,Female,Ireland,430,2016-01-27,Yes
+480,Nancy Martinez,Marketing,68535.88,56,Male,United Arab Emirates,1599,2019-08-09,Yes
+481,Charles Thomas,Support,68155.55,44,Non-binary,Ireland,582,2021-05-20,Yes
+482,Mary Ramos,Procurement,68133.51,51,Non-binary,Mexico,1232,2019-10-03,Yes
+483,Charles Adams,Finance,64133.55,58,Non-binary,Ireland,363,2018-12-26,Yes
+484,George Lewis,Procurement,57321.16,31,Female,Netherlands,1421,2025-06-24,No
+485,Matthew Williams,Sales,54448.13,47,Female,Canada,370,2022-05-11,No
+486,Linda Morgan,Marketing,94088.38,49,Non-binary,Saudi Arabia,748,2025-09-14,Yes
+487,Amy Thomas,Sales,88943.07,25,Male,Australia,399,2023-03-10,Yes
+488,George Cox,Operations,76577.62,33,Female,South Africa,1752,2016-12-14,Yes
+489,Amy Williams,Engineering,134909.44,36,Non-binary,Sweden,676,2026-01-09,Yes
+490,Justin Johnson,Sales,86299.19,52,Male,Australia,1981,2025-07-20,No
+491,Ronald Jones,Marketing,72499.7,26,Male,New Zealand,157,2020-03-30,Yes
+492,Pamela Morales,Sales,88186.78,51,Male,Australia,1277,2022-11-13,Yes
+493,Harold Gutierrez,Finance,76955.95,50,Male,France,1272,2024-03-26,Yes
+494,Sandra Hall,Support,59153.2,30,Male,Netherlands,1966,2020-05-06,Yes
+495,Kimberly Ramos,Support,64668.5,59,Female,Spain,1808,2024-10-09,Yes
+496,James Young,Support,40614.24,31,Male,India,955,2021-05-27,Yes
+497,Samantha Bennett,Sales,80313.62,49,Non-binary,Norway,808,2018-04-15,Yes
+498,Rachel Kelly,Procurement,79360.03,35,Non-binary,Denmark,836,2023-01-01,Yes
+499,Heather Ward,Support,50217.66,49,Male,France,954,2025-08-30,Yes
+500,Susan Hernandez,Support,69280.27,54,Non-binary,Japan,295,2021-10-30,Yes
+501,Melissa Thompson,Sales,52735.86,23,Female,Brazil,766,2025-05-12,No
+502,Joshua Martinez,Finance,87526.84,45,Female,India,1028,2022-01-29,Yes
+503,Elizabeth Brown,Marketing,84639.78,56,Non-binary,Japan,1608,2016-01-20,Yes
+504,Sharon Perez,Sales,50489.12,48,Female,India,1763,2019-05-21,Yes
+505,Charles Smith,Procurement,74892.47,26,Female,Sweden,1336,2018-11-08,Yes
+506,Justin Kim,Legal,104004.6,56,Non-binary,India,767,2022-11-11,Yes
+507,Michael Morris,Finance,79463.68,40,Male,Singapore,283,2019-12-30,Yes
+508,Joshua Gray,Legal,156308.87,46,Male,Brazil,1893,2023-04-14,Yes
+509,Barbara Gonzalez,Engineering,94346.28,63,Male,Spain,1804,2019-06-04,Yes
+510,Laura Parker,Finance,70865.24,61,Male,South Korea,665,2024-05-08,Yes
+511,Gary Parker,Support,46113.06,23,Female,Canada,741,2017-07-25,Yes
+512,Jacob James,Legal,179195.16,26,Non-binary,United States,1927,2017-01-29,No
+513,William Thompson,Procurement,83205.59,50,Non-binary,Brazil,1349,2025-07-27,Yes
+514,James Smith,Procurement,57781.66,48,Female,Australia,102,2018-04-11,Yes
+515,Joshua Morales,Sales,91576.25,42,Male,Denmark,52,2021-12-07,Yes
+516,Karen Jones,HR,67688.6,57,Non-binary,Denmark,511,2025-02-23,Yes
+517,Pamela Brown,Sales,72869.25,50,Non-binary,Mexico,1598,2017-06-07,Yes
+518,Janet Collins,Sales,76685.42,29,Female,Sweden,985,2020-05-06,Yes
+519,Patricia Murphy,HR,61248.3,44,Female,Italy,846,2020-04-22,Yes
+520,Melissa Wilson,Support,66096.81,43,Female,Switzerland,1408,2024-04-21,Yes
+521,Mark Reed,Legal,145139.94,55,Female,Norway,934,2019-01-29,Yes
+522,Paul Young,Marketing,51522.66,25,Female,Sweden,260,2019-07-30,Yes
+523,Carol Rogers,Legal,147438.73,54,Male,United Arab Emirates,77,2023-05-31,Yes
+524,Jessica Young,Marketing,56761.56,58,Male,Japan,1663,2022-05-16,Yes
+525,Ashley Collins,Support,41229.83,62,Female,Spain,335,2024-03-04,Yes
+526,Janet Morris,Operations,107576.11,25,Male,United Kingdom,291,2024-01-03,Yes
+527,Michelle Richardson,Procurement,86615.88,44,Female,Spain,388,2018-02-23,Yes
+528,Timothy Clark,Finance,106325.57,34,Non-binary,United Kingdom,1712,2018-04-12,Yes
+529,Stephanie Carter,Finance,108654.73,24,Female,South Africa,94,2023-07-29,Yes
+530,Katherine Gonzalez,Support,56846.04,49,Non-binary,Japan,508,2020-01-14,Yes
+531,Paul Anderson,Operations,64746.39,22,Non-binary,Denmark,1895,2019-04-24,Yes
+532,Mark Brooks,HR,74348.69,39,Female,Singapore,842,2022-05-07,Yes
+533,Joshua Bailey,HR,57897.27,59,Female,Denmark,806,2017-02-14,Yes
+534,Nancy Nguyen,Marketing,97280.69,57,Non-binary,Denmark,887,2025-04-02,Yes
+535,Amanda Taylor,Operations,89752.68,55,Non-binary,India,1429,2025-11-08,Yes
+536,Ashley Young,Operations,95015.4,24,Male,Ireland,604,2022-03-04,Yes
+537,Mark Bennett,Operations,56729.52,38,Male,South Africa,1508,2023-05-05,No
+538,John Kelly,Marketing,68138.24,37,Non-binary,New Zealand,1922,2022-03-20,Yes
+539,Michael Lee,Operations,84695.51,60,Non-binary,United Kingdom,1216,2020-05-10,Yes
+540,Richard Bennett,HR,63151.13,65,Male,United Kingdom,547,2019-09-08,Yes
+541,Michelle Morris,HR,67087.0,23,Non-binary,Brazil,1262,2025-07-06,Yes
+542,Ryan Smith,Marketing,99666.28,61,Female,Japan,1248,2024-07-28,No
+543,Rachel Sanchez,Procurement,86176.43,39,Male,Denmark,836,2016-04-21,No
+544,Ashley Rodriguez,Finance,125641.6,54,Female,Italy,1095,2025-09-15,Yes
+545,Peter Perez,Marketing,75378.59,25,Male,Saudi Arabia,1455,2020-02-15,Yes
+546,Kenneth Collins,Procurement,89147.54,34,Male,Singapore,759,2021-10-17,Yes
+547,Sandra Baker,Support,71469.41,54,Male,Japan,213,2020-03-24,No
+548,Joshua Robinson,Sales,77919.4,57,Female,Finland,1346,2024-09-10,Yes
+549,Kimberly Green,Engineering,130188.34,28,Non-binary,Japan,116,2017-04-06,Yes
+550,Emma Hall,Support,67384.17,64,Non-binary,Switzerland,1391,2017-11-25,Yes
+551,Matthew Cook,Engineering,134464.66,21,Non-binary,Brazil,1061,2016-04-21,Yes
+552,Laura Cook,Marketing,50593.0,56,Non-binary,Netherlands,875,2026-06-20,Yes
+553,Jerry Stewart,Support,51037.02,63,Male,New Zealand,984,2017-11-14,Yes
+554,Rachel Howard,Engineering,130601.1,21,Male,Netherlands,586,2018-12-20,Yes
+555,Kevin Allen,HR,77471.66,27,Male,Spain,1125,2026-03-24,Yes
+556,Jerry Garcia,Sales,59366.8,21,Non-binary,United States,1929,2023-11-23,Yes
+557,Steven Lee,HR,74971.79,23,Male,Ireland,645,2026-02-18,Yes
+558,Kathleen Morales,Engineering,111889.17,62,Male,Italy,1434,2024-01-08,Yes
+559,Jacob Green,Procurement,60142.73,54,Female,Norway,1022,2020-06-23,Yes
+560,Jennifer Harris,HR,76671.11,61,Male,United Arab Emirates,1009,2018-12-30,Yes
+561,Betty Torres,Legal,159281.57,39,Non-binary,United Arab Emirates,1349,2021-11-07,Yes
+562,Kathleen Watson,Sales,65687.94,43,Non-binary,Canada,1150,2021-05-03,No
+563,Janet Gonzalez,Engineering,147515.95,32,Female,Finland,420,2024-01-20,Yes
+564,Brenda Cruz,HR,64292.94,65,Male,Finland,882,2024-07-05,Yes
+565,Deborah Cooper,Legal,178695.61,34,Male,Finland,1857,2022-11-13,Yes
+566,Joshua Anderson,Legal,102040.02,48,Non-binary,Australia,28,2021-12-02,Yes
+567,Mary Perez,Sales,78929.55,28,Male,Spain,1292,2024-07-24,No
+568,Katherine Thompson,Procurement,63939.77,24,Male,India,1325,2024-12-06,Yes
+569,Daniel Ortiz,Legal,147302.89,52,Male,Mexico,1269,2020-03-02,Yes
+570,Jacob Perez,Operations,109112.73,43,Female,South Korea,974,2020-11-09,Yes
+571,Helen Johnson,Procurement,87204.54,37,Male,Australia,1422,2020-08-21,Yes
+572,Deborah Wilson,Engineering,149614.01,24,Male,Norway,1855,2019-06-08,Yes
+573,Jonathan Kim,HR,54431.65,43,Female,Germany,70,2016-01-22,Yes
+574,Anna Chavez,Sales,74333.43,29,Non-binary,Norway,400,2023-07-10,Yes
+575,Jennifer Roberts,Sales,75545.02,27,Male,India,203,2017-08-17,Yes
+576,Joshua Rogers,Support,55810.99,41,Male,United Kingdom,1087,2021-09-12,Yes
+577,Kevin Torres,Operations,94739.73,24,Male,Mexico,1563,2018-05-27,Yes
+578,Shirley Rogers,Engineering,155561.76,30,Male,Saudi Arabia,1684,2022-05-17,Yes
+579,Jason Mendoza,Operations,99783.45,46,Female,Finland,578,2019-11-01,Yes
+580,Douglas James,Support,54879.31,36,Male,Denmark,1860,2023-02-03,Yes
+581,Nancy Phillips,Finance,101634.65,57,Female,Mexico,1437,2019-11-30,Yes
+582,Melissa Ramirez,Operations,68511.76,43,Non-binary,New Zealand,1618,2018-09-29,Yes
+583,Jonathan Cox,Sales,58642.52,21,Female,Canada,365,2016-06-16,Yes
+584,Katherine Garcia,Legal,156503.68,34,Female,Mexico,1893,2022-01-10,Yes
+585,Walter Rogers,Operations,99181.66,47,Female,Italy,120,2023-12-22,Yes
+586,Donald Murphy,Procurement,65534.93,25,Female,Germany,142,2018-12-04,Yes
+587,Nicholas Hill,Procurement,91847.13,25,Non-binary,Denmark,1044,2021-10-31,Yes
+588,Rebecca Ward,Finance,105463.54,21,Male,Netherlands,1410,2017-09-17,Yes
+589,Christopher Perez,Procurement,72396.48,35,Female,South Africa,1868,2021-05-13,Yes
+590,Maria Jackson,Operations,85249.08,40,Non-binary,Denmark,1269,2021-12-05,Yes
+591,Jeffrey Carter,Support,65305.91,40,Female,Norway,489,2020-12-25,Yes
+592,Jerry Morgan,Legal,149981.62,26,Male,India,821,2021-01-27,Yes
+593,Sarah Young,Marketing,101946.42,52,Non-binary,Australia,1404,2026-06-04,Yes
+594,Katherine Sanchez,Engineering,96101.23,46,Female,Norway,549,2021-08-03,Yes
+595,Andrew Watson,Sales,46465.01,39,Non-binary,United Kingdom,787,2017-06-02,Yes
+596,Linda Kim,HR,58450.96,29,Female,Brazil,1033,2022-10-26,Yes
+597,Daniel Davis,Procurement,90722.08,35,Female,Canada,871,2021-08-25,Yes
+598,William Adams,Legal,192420.87,35,Male,South Africa,1945,2024-10-13,Yes
+599,Jason Watson,Engineering,117405.88,54,Male,Saudi Arabia,1934,2016-02-19,Yes
+600,Michelle Williams,Procurement,60127.91,39,Male,Japan,548,2020-05-04,Yes
+601,Jerry King,Support,69873.98,35,Female,United Arab Emirates,117,2020-11-12,Yes
+602,Karen Johnson,Marketing,77132.62,41,Non-binary,Switzerland,1125,2018-05-30,Yes
+603,Michelle Kelly,Procurement,56974.17,22,Male,Netherlands,780,2018-03-10,Yes
+604,Kenneth Reyes,Support,55347.68,40,Male,United Kingdom,82,2016-09-22,Yes
+605,Nicholas Phillips,Legal,128971.36,54,Female,Japan,1449,2019-03-29,Yes
+606,Elizabeth Anderson,Support,48195.42,55,Male,Germany,1857,2016-10-14,Yes
+607,Jennifer Clark,Sales,66712.03,35,Non-binary,Brazil,303,2026-02-04,Yes
+608,John Nelson,Sales,46093.75,65,Female,Switzerland,274,2022-08-01,Yes
+609,Patrick Reed,Procurement,71579.78,59,Female,Ireland,120,2022-07-27,Yes
+610,Sarah Martinez,Legal,182434.25,29,Non-binary,United Kingdom,1420,2022-04-04,Yes
+611,Jacob Lewis,Marketing,54751.87,49,Non-binary,France,622,2025-08-11,Yes
+612,Patricia Brooks,HR,63761.26,59,Male,France,1748,2016-03-03,Yes
+613,James Gutierrez,Support,41790.32,23,Male,United Kingdom,720,2017-01-18,Yes
+614,Nicole Stewart,Finance,129640.97,38,Female,South Korea,1269,2021-05-08,Yes
+615,Emma Watson,Support,64417.29,65,Female,Brazil,526,2018-11-27,Yes
+616,Sharon Thomas,Legal,168038.94,30,Female,United Kingdom,537,2019-07-10,Yes
+617,Justin Hall,Legal,182992.96,53,Non-binary,New Zealand,392,2016-06-29,Yes
+618,Michael Bennett,Procurement,68463.11,35,Female,France,1738,2017-07-13,Yes
+619,Dennis Wilson,Support,55752.79,31,Female,Australia,936,2016-10-24,Yes
+620,Brian Stewart,Procurement,72529.89,38,Non-binary,Japan,42,2019-01-16,Yes
+621,Kevin Taylor,HR,69784.87,52,Non-binary,Australia,383,2018-04-16,Yes
+622,Brian Young,Marketing,72680.28,44,Female,Singapore,494,2021-04-28,Yes
+623,Cynthia Collins,Finance,84401.19,35,Male,Japan,349,2016-06-02,Yes
+624,Kenneth Murphy,Legal,150422.0,51,Non-binary,South Africa,1136,2017-12-15,Yes
+625,Michael Bailey,Engineering,115576.7,29,Female,United States,588,2023-03-20,Yes
+626,Nicole Phillips,Engineering,123304.1,62,Male,Ireland,1134,2017-10-22,Yes
+627,Linda Parker,Support,62438.28,28,Female,Italy,1531,2023-04-09,Yes
+628,Steven Nelson,Engineering,128273.71,58,Male,United Kingdom,125,2016-07-01,Yes
+629,Jessica Carter,Engineering,140811.7,29,Non-binary,Germany,1217,2023-06-16,Yes
+630,Stephanie Collins,Marketing,92994.54,35,Non-binary,Spain,89,2016-02-10,Yes
+631,Charles Hernandez,Sales,81583.34,29,Male,Finland,1643,2019-01-27,Yes
+632,Katherine Murphy,HR,66444.57,60,Female,Sweden,1082,2024-04-24,Yes
+633,Sharon Wood,Support,74948.91,47,Male,Netherlands,1214,2017-04-08,Yes
+634,William Wright,Marketing,60502.3,41,Male,India,1558,2016-10-28,Yes
+635,James Gutierrez,Procurement,87881.79,38,Female,Denmark,1849,2022-10-26,Yes
+636,Laura Gonzalez,Finance,89486.72,42,Female,Finland,580,2017-08-11,Yes
+637,Christopher Collins,Marketing,104911.75,30,Non-binary,South Korea,527,2022-11-20,Yes
+638,Michael Garcia,Procurement,52627.76,27,Male,Finland,587,2017-12-18,Yes
+639,Pamela Moore,Engineering,105018.49,52,Female,Sweden,681,2016-12-15,Yes
+640,Christopher Williams,Finance,102634.11,54,Male,Brazil,1166,2023-04-15,Yes
+641,Donald Moore,Sales,92067.82,65,Male,United States,730,2021-02-07,Yes
+642,Debra Young,Marketing,103092.17,22,Male,Netherlands,326,2017-02-15,Yes
+643,Ryan Gutierrez,Sales,64216.14,55,Male,United Kingdom,880,2025-02-05,No
+644,Mary Hall,Finance,87961.05,35,Non-binary,Mexico,466,2018-10-04,Yes
+645,Matthew Collins,Sales,80898.88,38,Non-binary,Brazil,1184,2016-08-08,Yes
+646,Rebecca Lopez,Procurement,89962.97,45,Male,United States,499,2020-11-03,Yes
+647,Emily Brown,Engineering,93709.51,37,Non-binary,United Kingdom,1054,2023-08-28,Yes
+648,Helen Gutierrez,Finance,118764.2,56,Female,New Zealand,982,2025-01-06,Yes
+649,Jacob Murphy,Procurement,73479.45,37,Male,Sweden,1442,2016-02-12,No
+650,Elizabeth White,Operations,78582.97,38,Male,Netherlands,108,2016-11-26,No
+651,James Gutierrez,Legal,157500.24,26,Non-binary,Brazil,989,2019-04-23,Yes
+652,Eric Williams,Legal,148979.66,42,Female,South Korea,1493,2020-07-03,Yes
+653,Harold Bennett,Operations,102353.72,34,Female,Saudi Arabia,501,2020-06-22,Yes
+654,Kimberly Allen,Marketing,77155.04,54,Female,Mexico,1725,2022-06-06,Yes
+655,Sandra Kelly,Sales,91498.96,58,Non-binary,United Kingdom,1303,2018-09-12,Yes
+656,Douglas Lee,Sales,56494.53,38,Female,France,902,2021-09-27,Yes
+657,Charles Clark,Engineering,128655.78,32,Male,Saudi Arabia,130,2024-10-31,Yes
+658,Thomas Edwards,HR,48270.78,62,Female,Saudi Arabia,1044,2018-02-15,Yes
+659,Peter Ramos,Marketing,58482.44,30,Non-binary,Mexico,1456,2024-08-31,Yes
+660,Peter Ramirez,Sales,48271.84,29,Male,Mexico,745,2017-01-03,Yes
+661,Steven Moore,Legal,114498.66,48,Non-binary,Saudi Arabia,525,2025-11-04,Yes
+662,Edward Garcia,HR,58400.85,30,Female,India,213,2025-09-14,Yes
+663,James Carter,Sales,61457.26,56,Female,United Kingdom,375,2020-04-22,Yes
+664,Carolyn Nguyen,Support,73844.7,42,Male,Italy,1886,2019-03-03,Yes
+665,Emma Wood,Support,58238.01,23,Female,Brazil,671,2022-07-07,Yes
+666,Joseph Moore,HR,72347.66,28,Non-binary,Norway,1952,2023-04-13,Yes
+667,Michelle Kim,HR,63502.8,42,Male,India,438,2018-02-02,Yes
+668,Thomas Taylor,Finance,73250.41,60,Female,Denmark,1799,2017-07-31,Yes
+669,Richard Martin,Operations,56261.64,61,Female,South Africa,1743,2022-12-27,Yes
+670,Laura Robinson,Procurement,75527.21,37,Non-binary,United Kingdom,1025,2016-10-02,Yes
+671,Shirley Carter,Finance,65043.1,60,Non-binary,Finland,1297,2019-09-01,Yes
+672,Emma Martin,Marketing,93222.34,56,Female,New Zealand,1756,2019-10-22,No
+673,Elizabeth Taylor,Operations,101378.64,24,Non-binary,Canada,389,2021-07-23,Yes
+674,Gregory Martinez,Sales,93037.76,64,Male,United Arab Emirates,1115,2019-05-10,Yes
+675,Helen Hall,Operations,62506.85,35,Female,Denmark,977,2018-04-05,Yes
+676,Steven Walker,Finance,102520.11,50,Female,Australia,1471,2023-06-08,Yes
+677,Margaret Miller,HR,61855.36,34,Non-binary,Sweden,1560,2023-10-13,No
+678,Paul Martin,Legal,90983.02,50,Male,Germany,529,2024-10-16,Yes
+679,Nicole Johnson,Marketing,52366.93,57,Non-binary,France,1040,2022-08-14,Yes
+680,Janet Reed,Legal,173750.35,44,Non-binary,Japan,516,2026-06-03,Yes
+681,Amy Jones,Legal,193725.38,47,Female,United Arab Emirates,1683,2026-01-15,Yes
+682,Christine Evans,Support,44592.81,59,Non-binary,Ireland,1373,2024-02-16,Yes
+683,William Martin,Engineering,99970.74,54,Non-binary,United Arab Emirates,1254,2024-05-09,Yes
+684,Sharon Cook,Engineering,103323.87,31,Female,Ireland,170,2018-03-13,Yes
+685,Mary Gray,Support,49923.32,26,Female,Denmark,908,2024-02-22,Yes
+686,Charles Taylor,Legal,141797.63,29,Non-binary,Spain,1608,2024-10-25,Yes
+687,James Bennett,Finance,110729.03,22,Female,France,644,2019-04-26,Yes
+688,Helen Johnson,HR,66636.14,33,Female,United Arab Emirates,1861,2024-10-23,Yes
+689,Patricia Cooper,Operations,108163.22,23,Male,Australia,499,2017-06-01,Yes
+690,Patricia Parker,Engineering,140142.58,28,Female,Italy,1760,2016-10-11,Yes
+691,Jeffrey Lee,HR,83263.59,42,Female,Singapore,827,2016-06-19,Yes
+692,Walter Kelly,Marketing,102266.53,32,Non-binary,Germany,1014,2020-02-04,Yes
+693,Gary Clark,Operations,74869.75,31,Female,Italy,171,2025-02-19,No
+694,Gregory Wilson,Operations,55528.15,35,Female,Mexico,1014,2017-12-05,Yes
+695,Christopher Peterson,HR,72098.22,59,Female,Switzerland,496,2018-10-18,Yes
+696,Matthew Rogers,Engineering,99081.43,40,Non-binary,Finland,638,2020-02-15,Yes
+697,Peter Lewis,HR,54726.86,50,Male,Singapore,1688,2020-09-21,Yes
+698,Melissa Chavez,Marketing,76574.78,48,Female,Ireland,1366,2018-02-03,No
+699,John Ward,Support,55140.79,32,Non-binary,United Kingdom,1503,2021-04-22,Yes
+700,Patrick Parker,Operations,81584.51,57,Male,India,1731,2020-10-19,Yes
+701,Amanda Bailey,Operations,90738.84,48,Non-binary,South Korea,150,2023-04-28,Yes
+702,Kevin Mitchell,Support,45597.73,37,Non-binary,Norway,270,2024-07-21,Yes
+703,Steven Walker,HR,55600.54,49,Female,United Kingdom,270,2026-04-19,Yes
+704,Eric Hall,Marketing,82157.49,52,Male,South Africa,1728,2020-12-15,Yes
+705,Donna Bailey,Procurement,75243.5,22,Female,Spain,1571,2018-05-01,Yes
+706,Brian Parker,Finance,105904.52,29,Female,Mexico,1879,2020-09-15,Yes
+707,Betty Morales,Sales,48550.28,40,Female,United Kingdom,1157,2016-10-30,No
+708,Susan Cox,Sales,87260.34,23,Male,France,1586,2022-10-01,Yes
+709,Mary Phillips,Sales,57403.3,48,Male,Singapore,913,2021-05-28,Yes
+710,Carolyn Cruz,Legal,125467.12,61,Non-binary,United States,543,2021-09-25,Yes
+711,Jennifer Cook,Engineering,91668.04,58,Non-binary,Switzerland,875,2018-03-20,Yes
+712,Nicholas Scott,Marketing,59319.26,51,Female,United Kingdom,561,2022-07-26,Yes
+713,Christopher King,Legal,181692.28,46,Female,United States,1604,2017-09-23,Yes
+714,Justin Hill,Operations,64441.25,49,Male,Brazil,309,2018-04-05,Yes
+715,Emma Bennett,Operations,107245.16,37,Male,South Korea,1092,2024-03-31,Yes
+716,Kimberly Richardson,Marketing,54609.1,54,Male,Canada,938,2021-02-10,Yes
+717,John Wood,Legal,147741.67,25,Non-binary,Switzerland,300,2021-12-09,Yes
+718,Timothy Bailey,Legal,187767.74,45,Male,Denmark,1760,2016-08-04,Yes
+719,Brenda Johnson,Legal,128530.84,45,Female,Italy,1744,2019-02-11,Yes
+720,Betty Jackson,Sales,60648.89,30,Male,Italy,713,2024-09-08,Yes
+721,Lisa Hernandez,Finance,120284.82,34,Male,Italy,1195,2016-09-12,Yes
+722,Janet Davis,Engineering,125446.29,45,Non-binary,Denmark,847,2025-03-17,Yes
+723,Susan Kelly,HR,76045.19,41,Male,South Korea,130,2020-09-07,Yes
+724,Anna Flores,Support,65995.41,42,Female,Spain,38,2025-04-05,Yes
+725,Kevin Peterson,Finance,60731.23,24,Male,Finland,859,2021-10-28,Yes
+726,Sarah Murphy,Engineering,149373.45,46,Female,South Africa,756,2025-09-24,Yes
+727,Patricia Anderson,Operations,94633.85,32,Non-binary,New Zealand,1567,2016-05-26,Yes
+728,Helen Gray,Operations,76223.25,46,Female,Sweden,1677,2026-01-13,No
+729,David Baker,Finance,103171.97,33,Non-binary,Spain,246,2026-02-16,Yes
+730,Timothy Ward,Procurement,94944.93,50,Male,Germany,1163,2018-11-05,No
+731,Jacob Rodriguez,Engineering,120629.11,23,Non-binary,Australia,707,2022-02-11,Yes
+732,Patricia Rodriguez,HR,79692.4,27,Male,Germany,360,2020-09-18,Yes
+733,Nicole Morris,Legal,160770.31,52,Female,Switzerland,44,2020-05-29,Yes
+734,Larry Collins,HR,62622.87,54,Male,Germany,486,2021-02-20,Yes
+735,James Cooper,Support,42678.77,37,Non-binary,Germany,1492,2021-03-07,Yes
+736,Harold Edwards,Marketing,87275.85,57,Female,Norway,1781,2021-01-26,No
+737,Amy Anderson,Legal,126600.96,65,Non-binary,Sweden,1536,2023-06-06,Yes
+738,Mary Parker,Procurement,76661.68,59,Male,Mexico,1127,2026-04-12,Yes
+739,Brian Walker,Sales,74192.69,27,Female,India,1096,2018-12-02,Yes
+740,Melissa Thomas,Legal,148931.2,54,Male,Sweden,1970,2025-06-06,No
+741,Susan Mendoza,HR,89830.67,54,Male,Ireland,1687,2017-08-06,Yes
+742,Amy Baker,HR,55488.31,23,Male,United Kingdom,1801,2016-10-14,Yes
+743,Jerry Baker,Operations,88303.39,49,Female,Saudi Arabia,831,2025-03-14,Yes
+744,Gary Watson,Marketing,70001.02,64,Female,Japan,1653,2022-12-24,Yes
+745,Michelle Carter,Legal,103388.38,26,Male,South Korea,631,2019-07-27,Yes
+746,Helen Adams,Support,53288.27,33,Male,Norway,123,2023-10-25,Yes
+747,Mary Phillips,Marketing,93193.47,31,Female,United Kingdom,1029,2017-03-22,Yes
+748,Michelle Williams,Operations,108929.57,52,Non-binary,Denmark,1450,2025-02-07,Yes
+749,Stephanie Stewart,Marketing,73442.01,63,Female,Italy,1134,2023-06-12,Yes
+750,Christopher Morales,Finance,124249.36,31,Non-binary,South Korea,1237,2023-11-29,Yes
+751,Jennifer Lee,Engineering,106550.71,46,Male,Saudi Arabia,1826,2023-05-20,Yes
+752,Nicole Taylor,Finance,75992.87,57,Female,Saudi Arabia,669,2022-12-11,Yes
+753,Larry Edwards,Engineering,150858.98,48,Male,Singapore,525,2017-07-10,Yes
+754,Margaret Green,Operations,79477.83,40,Female,India,793,2016-10-21,Yes
+755,Cynthia Torres,Marketing,70130.14,28,Male,Ireland,1230,2021-04-01,Yes
+756,Anna Martin,Support,43822.28,52,Non-binary,India,1592,2020-10-05,Yes
+757,Amy Campbell,Operations,76603.94,44,Non-binary,India,477,2023-01-20,No
+758,Brian Sanchez,Support,55795.33,28,Male,Switzerland,1468,2023-07-09,Yes
+759,Sarah Miller,Legal,157698.27,38,Male,United Arab Emirates,560,2022-04-26,Yes
+760,Jeffrey Bailey,Finance,79236.26,43,Female,Japan,1730,2021-01-27,Yes
+761,Sarah Diaz,Procurement,70941.71,49,Non-binary,France,204,2023-09-08,Yes
+762,Patricia Wilson,HR,61876.58,43,Female,Denmark,64,2017-08-01,Yes
+763,Mark Harris,Operations,103134.39,30,Female,Australia,231,2024-09-20,Yes
+764,Donald Mitchell,Operations,58172.79,63,Male,Italy,329,2026-02-15,Yes
+765,Carolyn Bailey,Marketing,91851.98,52,Non-binary,New Zealand,907,2017-01-27,Yes
+766,Betty Smith,Sales,58257.84,41,Male,Germany,1159,2026-05-15,Yes
+767,Christine Green,Operations,94003.73,50,Female,Switzerland,889,2018-04-04,Yes
+768,Jacob Thomas,HR,88874.54,27,Female,Brazil,1543,2025-05-02,Yes
+769,Richard Campbell,Marketing,82238.94,53,Female,United States,585,2016-03-27,Yes
+770,Steven Campbell,Sales,62114.51,23,Female,United Arab Emirates,625,2024-03-26,No
+771,Justin Chavez,Finance,78860.93,49,Female,Italy,833,2024-10-12,Yes
+772,Gary Gomez,Support,71850.35,64,Non-binary,United States,732,2020-03-23,Yes
+773,Emma Robinson,HR,85818.38,51,Non-binary,Mexico,1968,2020-10-30,Yes
+774,Helen Sanchez,Engineering,146016.38,50,Female,Canada,1914,2024-06-14,Yes
+775,Patricia Wright,Legal,189692.62,28,Female,United States,1479,2022-09-27,Yes
+776,Emily James,Sales,76693.04,36,Non-binary,Ireland,332,2025-12-02,Yes
+777,Larry Carter,Legal,167779.4,63,Male,Italy,1684,2020-04-09,Yes
+778,Elizabeth Hill,HR,79401.35,51,Female,Denmark,1541,2020-04-01,Yes
+779,Emma Jones,Legal,130104.88,32,Non-binary,France,1681,2022-09-20,No
+780,Jessica Brown,Support,69957.62,35,Non-binary,Switzerland,534,2023-02-21,Yes
+781,Eric Kim,Finance,125985.47,25,Male,Sweden,1945,2026-04-21,Yes
+782,Carol Miller,Operations,72679.68,28,Male,Denmark,1485,2021-06-26,Yes
+783,Dennis Harris,Sales,85208.88,56,Non-binary,Norway,1787,2024-01-28,Yes
+784,Kathleen Kim,Marketing,66748.38,46,Non-binary,Norway,1806,2017-09-26,Yes
+785,Kathleen Kim,Engineering,131476.42,25,Non-binary,Spain,1121,2026-05-06,Yes
+786,Deborah James,Finance,123162.3,55,Non-binary,Sweden,270,2020-12-22,Yes
+787,James Robinson,Legal,104064.59,33,Female,New Zealand,971,2016-09-15,Yes
+788,Patrick Brooks,Operations,80553.91,29,Female,Brazil,58,2019-10-08,Yes
+789,George Green,Support,74724.98,61,Female,Singapore,1815,2023-11-19,Yes
+790,Nicole Cruz,HR,59150.11,53,Male,Singapore,128,2026-04-26,Yes
+791,Joshua Adams,Finance,90140.34,23,Non-binary,Germany,298,2023-09-12,Yes
+792,Brenda Bailey,HR,75975.69,32,Non-binary,Norway,1973,2020-10-11,Yes
+793,Helen Garcia,Finance,84816.76,63,Non-binary,Canada,998,2022-07-20,Yes
+794,Linda Anderson,Engineering,91428.86,47,Female,Netherlands,92,2022-09-21,Yes
+795,Kimberly Gutierrez,Operations,85767.34,25,Male,India,402,2020-04-03,Yes
+796,Mary Gomez,Support,40169.43,59,Female,Saudi Arabia,1324,2022-09-15,Yes
+797,Heather Adams,Engineering,143593.89,28,Female,Germany,496,2018-09-22,Yes
+798,Jacob Jones,Support,57908.27,59,Male,Italy,1339,2020-05-10,Yes
+799,Patricia Gomez,Engineering,100851.32,30,Non-binary,Ireland,1750,2024-11-06,Yes
+800,Carolyn Flores,Sales,71639.72,52,Non-binary,United Kingdom,1911,2018-08-30,Yes
+801,Rebecca Kelly,Procurement,61637.31,52,Male,Netherlands,1541,2016-01-17,Yes
+802,Sandra Brooks,Marketing,69007.76,58,Male,Spain,1241,2022-12-22,Yes
+803,Amy Thomas,Finance,111066.78,33,Male,Germany,1912,2017-03-05,Yes
+804,Douglas Cruz,Legal,152411.4,27,Male,Netherlands,1355,2023-12-30,Yes
+805,Laura Cook,Procurement,83490.71,60,Female,Netherlands,103,2022-10-08,Yes
+806,Sharon Roberts,HR,73842.53,28,Female,Ireland,1275,2017-12-24,Yes
+807,Emma Carter,Engineering,146688.92,34,Female,United Arab Emirates,1285,2018-06-04,Yes
+808,Laura Nguyen,HR,76965.55,41,Male,Norway,1862,2024-07-09,Yes
+809,George Morgan,Support,56909.0,40,Female,Singapore,479,2022-10-04,Yes
+810,Nancy Baker,Procurement,78532.86,24,Female,South Africa,1708,2017-09-11,Yes
+811,Jason Williams,Operations,109483.59,49,Male,France,205,2020-05-04,Yes
+812,Eric Davis,Finance,99443.31,59,Non-binary,Norway,1581,2025-06-12,Yes
+813,Kevin Chavez,Operations,86508.19,53,Female,India,1096,2022-02-19,Yes
+814,Deborah Howard,Sales,67530.88,47,Male,Saudi Arabia,145,2016-04-29,Yes
+815,Brenda Allen,Sales,93887.2,26,Male,New Zealand,732,2018-11-13,Yes
+816,James Cox,Operations,74181.95,31,Female,Brazil,333,2023-10-11,Yes
+817,Ryan Scott,Marketing,76443.2,47,Male,Ireland,1858,2023-07-12,Yes
+818,Stephanie Harris,HR,64933.31,52,Female,Norway,1620,2024-05-02,Yes
+819,Stephanie Edwards,Legal,181265.59,52,Non-binary,Spain,1619,2024-03-05,Yes
+820,William Young,Support,69465.72,61,Male,Brazil,1210,2021-12-22,Yes
+821,Carol Gray,Marketing,103133.73,29,Female,South Africa,892,2024-03-23,Yes
+822,Susan Lewis,Procurement,58696.56,59,Male,United States,364,2018-07-30,Yes
+823,Emma Ramos,Support,64911.74,48,Male,France,644,2019-10-14,Yes
+824,Kevin Gutierrez,HR,86278.78,54,Non-binary,Mexico,490,2019-05-08,Yes
+825,Kimberly Jackson,Engineering,122533.66,38,Non-binary,Saudi Arabia,1755,2024-11-27,Yes
+826,Anthony Johnson,Sales,88651.23,59,Female,France,1502,2023-05-19,Yes
+827,Andrew Ramos,Procurement,94104.85,48,Female,South Korea,876,2017-02-11,Yes
+828,Christine Brown,Engineering,106418.21,32,Male,India,1841,2016-07-10,Yes
+829,Stephen Richardson,Sales,90668.0,63,Male,Netherlands,1012,2021-03-27,Yes
+830,Charles Bailey,Legal,95004.53,39,Female,South Korea,1697,2022-03-24,Yes
+831,Jeffrey Young,Procurement,55807.42,60,Non-binary,Singapore,1945,2024-05-03,Yes
+832,Edward Smith,HR,56306.07,41,Non-binary,Saudi Arabia,981,2019-08-29,Yes
+833,Laura Walker,Sales,59942.27,55,Non-binary,Australia,1221,2024-02-09,Yes
+834,Katherine Flores,Support,72066.66,65,Non-binary,Germany,1244,2025-10-17,Yes
+835,Peter Hernandez,Operations,83470.17,37,Female,Italy,1278,2022-05-04,Yes
+836,Harold Reed,Engineering,87583.99,59,Non-binary,Saudi Arabia,1403,2021-04-25,Yes
+837,Raymond Nelson,Marketing,91562.24,53,Female,United States,1495,2024-12-23,Yes
+838,Timothy Gonzalez,Legal,157758.5,52,Non-binary,Ireland,690,2016-04-30,Yes
+839,Helen Ward,Procurement,52591.29,22,Male,Switzerland,847,2022-08-07,Yes
+840,John Clark,Support,57448.14,37,Male,Brazil,1366,2017-08-01,Yes
+841,Steven Martinez,Operations,59770.37,58,Female,Mexico,318,2022-01-13,Yes
+842,Debra Lopez,Operations,82837.94,64,Male,Norway,1256,2023-12-07,Yes
+843,Stephen Bennett,Support,57628.93,42,Female,Singapore,990,2016-01-20,Yes
+844,Kevin Mendoza,Sales,81531.33,41,Non-binary,India,1100,2018-12-05,Yes
+845,Raymond Walker,Procurement,91115.18,44,Female,Mexico,657,2016-12-24,Yes
+846,Sarah Morales,Legal,181596.0,42,Non-binary,United Kingdom,113,2017-07-07,Yes
+847,Cynthia Lewis,Operations,106260.21,38,Female,Ireland,1662,2025-07-23,Yes
+848,Amy Hill,Support,40106.89,24,Non-binary,Mexico,1872,2025-08-19,Yes
+849,Amanda Scott,Support,68860.44,57,Male,France,6,2021-02-27,Yes
+850,Kathleen Carter,HR,71796.85,54,Male,United Arab Emirates,360,2024-03-06,Yes
+851,Melissa Johnson,Legal,146438.13,61,Female,Saudi Arabia,1888,2020-10-08,Yes
+852,Maria Nelson,Finance,102875.32,61,Female,Singapore,1809,2016-11-13,Yes
+853,Eric Martinez,Finance,62487.45,56,Non-binary,Singapore,720,2024-11-05,Yes
+854,Richard Young,Operations,76420.1,53,Female,United Arab Emirates,708,2025-09-09,Yes
+855,Joshua Mitchell,Marketing,64995.37,60,Female,Ireland,1293,2019-02-02,Yes
+856,Rebecca Ramirez,Marketing,96872.43,27,Male,Australia,1435,2021-03-27,Yes
+857,Joshua Brown,HR,87559.53,38,Non-binary,United Arab Emirates,918,2018-11-17,No
+858,Patricia Bennett,Legal,151552.22,32,Male,Switzerland,140,2016-05-01,Yes
+859,Michelle Hernandez,Procurement,63260.0,63,Male,Italy,51,2016-06-04,Yes
+860,Laura Hill,Finance,93021.87,22,Male,Netherlands,382,2018-08-11,Yes
+861,Emily Parker,Operations,83176.71,65,Female,Canada,1137,2016-08-03,Yes
+862,Ronald Mitchell,Operations,61150.32,48,Male,South Africa,1369,2017-05-05,Yes
+863,Jerry Roberts,Support,45286.21,52,Non-binary,Netherlands,506,2024-08-21,Yes
+864,Michael Brooks,Marketing,73519.89,24,Non-binary,France,1955,2018-09-20,Yes
+865,Gregory Carter,Operations,70265.41,40,Non-binary,Japan,1414,2018-07-26,Yes
+866,Larry Jackson,HR,78615.21,41,Male,Ireland,192,2021-09-21,Yes
+867,Justin Lee,Support,55890.4,55,Male,Singapore,531,2023-09-15,Yes
+868,Raymond Mitchell,Marketing,94066.75,45,Non-binary,Mexico,1809,2023-10-21,No
+869,Christopher Torres,Support,62553.78,57,Male,India,1189,2023-07-13,No
+870,Laura Taylor,Marketing,97811.0,42,Male,India,1773,2023-02-25,Yes
+871,George Ward,Operations,92571.21,54,Non-binary,United Kingdom,961,2017-06-19,Yes
+872,William Adams,Operations,105885.96,28,Male,South Korea,1975,2022-07-02,Yes
+873,Stephen Murphy,Procurement,65389.24,48,Female,Italy,1599,2018-01-27,Yes
+874,George Gutierrez,Sales,65394.15,43,Non-binary,Saudi Arabia,1010,2022-09-26,No
+875,Patricia Phillips,HR,55467.3,38,Male,Saudi Arabia,1804,2016-03-24,Yes
+876,Joshua Morris,HR,86014.49,34,Female,Japan,1232,2020-05-25,Yes
+877,Kenneth Morgan,Engineering,122725.0,55,Non-binary,Sweden,1897,2017-04-23,Yes
+878,Emily Cook,Legal,109415.11,50,Female,Norway,1398,2018-02-25,Yes
+879,Maria Sanchez,HR,74304.1,35,Non-binary,United Kingdom,1233,2019-03-03,Yes
+880,Kevin Parker,Finance,72099.46,25,Female,Netherlands,206,2021-05-30,Yes
+881,Steven Flores,HR,87757.89,42,Non-binary,United States,1735,2019-08-22,Yes
+882,Katherine Ramirez,Support,49227.26,25,Male,Brazil,1389,2016-09-05,Yes
+883,Patrick Parker,HR,62804.89,42,Female,Sweden,608,2019-05-26,Yes
+884,Debra King,HR,87226.06,47,Male,Netherlands,1002,2026-02-02,Yes
+885,Sandra Reyes,Legal,105763.37,40,Male,Canada,785,2023-11-26,Yes
+886,Emma Robinson,Engineering,112126.62,63,Male,Australia,1833,2025-12-09,Yes
+887,Kevin Murphy,Engineering,135113.06,56,Non-binary,Switzerland,1509,2021-09-29,No
+888,Amy Reyes,Legal,99867.59,47,Non-binary,Canada,840,2026-04-13,Yes
+889,Katherine Harris,Support,69929.94,65,Non-binary,Brazil,761,2021-07-09,Yes
+890,Gary Lopez,Finance,83197.11,57,Female,Singapore,477,2019-11-21,Yes
+891,Helen Bennett,Legal,134426.71,63,Female,New Zealand,1093,2021-08-16,Yes
+892,Laura Turner,Legal,95502.94,48,Female,Netherlands,498,2024-08-13,Yes
+893,Kenneth Howard,Finance,127044.78,62,Non-binary,South Korea,1855,2025-11-29,Yes
+894,Anthony Turner,Procurement,79549.06,42,Non-binary,Japan,736,2021-01-07,Yes
+895,Janet Flores,HR,67462.69,43,Non-binary,Netherlands,1547,2020-08-15,Yes
+896,Brenda Reed,Finance,90435.16,52,Non-binary,Spain,966,2017-11-19,Yes
+897,Brenda King,Operations,79079.4,30,Female,Australia,1434,2022-11-08,Yes
+898,Angela Reed,Procurement,73165.28,21,Non-binary,South Africa,1966,2024-01-06,Yes
+899,Edward Rogers,Support,64874.41,29,Male,Denmark,1000,2017-08-17,Yes
+900,Jeffrey Peterson,Operations,105428.29,28,Female,Japan,1772,2026-01-01,Yes
+901,Joshua Morris,Engineering,124995.47,62,Male,Saudi Arabia,1477,2018-04-16,Yes
+902,Timothy Parker,Support,53754.77,47,Non-binary,Italy,741,2017-06-12,Yes
+903,Linda Perez,Sales,69561.05,62,Female,Spain,677,2020-12-07,Yes
+904,Shirley Ramos,Finance,72419.14,54,Non-binary,New Zealand,1396,2020-09-15,Yes
+905,Margaret Jones,Legal,159761.92,60,Male,India,1741,2020-09-24,Yes
+906,Emma Ortiz,Sales,86972.34,44,Female,Switzerland,867,2025-06-01,Yes
+907,James Perez,Engineering,106182.0,41,Male,New Zealand,453,2021-06-21,Yes
+908,Kevin Robinson,HR,52517.75,64,Female,Switzerland,903,2018-10-27,Yes
+909,Janet Nguyen,HR,76801.15,32,Female,France,602,2021-04-10,Yes
+910,Andrew Robinson,Support,46561.99,29,Female,New Zealand,996,2023-08-03,Yes
+911,John Cooper,Marketing,93357.81,51,Male,Japan,876,2016-05-13,Yes
+912,Laura Johnson,Support,70870.43,37,Female,Singapore,78,2020-05-27,Yes
+913,Peter Taylor,Finance,90382.21,58,Male,Denmark,38,2018-03-22,Yes
+914,Christopher Cook,Sales,50939.03,21,Male,United Kingdom,1287,2016-01-04,Yes
+915,Jonathan Anderson,Finance,81179.67,64,Female,Brazil,380,2016-11-13,Yes
+916,Emma Green,Engineering,156478.6,48,Non-binary,New Zealand,1540,2022-03-31,Yes
+917,Anna Ramos,Operations,62935.82,63,Male,United States,70,2017-04-11,Yes
+918,Thomas Adams,Marketing,72769.49,26,Male,Ireland,678,2020-07-07,Yes
+919,Kevin Harris,Operations,100126.89,46,Male,Canada,1056,2022-11-18,Yes
+920,Dennis Lopez,Finance,66952.32,39,Non-binary,United Arab Emirates,1680,2023-10-27,Yes
+921,Harold Johnson,Support,63699.27,39,Non-binary,New Zealand,1206,2021-01-04,Yes
+922,Joshua Ortiz,Engineering,122020.71,24,Female,Germany,1873,2024-06-29,Yes
+923,Samantha Thomas,Legal,98434.82,55,Female,United Kingdom,737,2017-12-24,Yes
+924,Charles Roberts,Support,60517.46,52,Female,United States,1740,2023-06-20,Yes
+925,Gary Cox,Marketing,98249.84,51,Male,Brazil,1515,2026-05-30,Yes
+926,Daniel Jackson,Sales,79479.16,59,Male,Australia,379,2022-11-24,Yes
+927,Douglas Morgan,Sales,80217.01,37,Male,Switzerland,960,2024-09-07,Yes
+928,Debra Rogers,Finance,89149.72,47,Male,Spain,457,2018-11-06,Yes
+929,Christine Hernandez,Engineering,135292.96,47,Non-binary,Saudi Arabia,1249,2019-09-29,No
+930,Barbara Peterson,Finance,99750.08,37,Female,New Zealand,1617,2025-04-10,Yes
+931,Stephen Green,Sales,71709.76,53,Male,Ireland,365,2022-11-12,Yes
+932,Amy Gomez,Finance,81559.54,52,Male,Finland,966,2020-09-18,Yes
+933,Joshua Perez,HR,88118.1,35,Non-binary,United Arab Emirates,1002,2020-06-23,Yes
+934,Sandra Morales,Sales,94086.7,55,Male,Spain,1794,2026-01-14,Yes
+935,Stephen Cook,Legal,167881.72,27,Female,South Korea,263,2025-08-17,Yes
+936,Heather Collins,Sales,68795.84,52,Male,Netherlands,185,2019-11-02,Yes
+937,Christopher Flores,Finance,83095.71,65,Male,Netherlands,133,2018-08-02,Yes
+938,Angela Scott,Finance,89057.62,44,Male,Italy,1561,2017-01-04,Yes
+939,Mary Clark,Support,57206.3,43,Female,South Africa,181,2020-09-02,Yes
+940,Harold Gray,Marketing,97366.97,44,Male,Australia,1290,2025-05-03,Yes
+941,Deborah Hill,Procurement,94298.47,36,Male,South Korea,1165,2024-03-01,Yes
+942,Andrew Anderson,Operations,99548.25,48,Non-binary,Saudi Arabia,792,2024-09-05,Yes
+943,Elizabeth Flores,Finance,91999.5,23,Male,Switzerland,1873,2022-02-28,Yes
+944,Gary Lewis,Operations,61415.75,63,Non-binary,Finland,880,2023-02-09,Yes
+945,Brian Allen,Engineering,88112.27,64,Male,Canada,598,2016-05-04,Yes
+946,Deborah Evans,Legal,124535.21,41,Non-binary,United Arab Emirates,1118,2016-04-03,Yes
+947,William Miller,Procurement,51103.22,33,Female,South Korea,75,2023-06-19,Yes
+948,Daniel Jackson,Legal,169330.62,57,Non-binary,Germany,1300,2016-05-18,Yes
+949,Maria Edwards,HR,58574.34,46,Female,Canada,1415,2016-05-27,Yes
+950,Angela Hill,Support,52387.24,59,Non-binary,Spain,186,2025-08-01,Yes
+951,Brian Scott,HR,56759.99,59,Non-binary,India,1684,2020-03-23,Yes
+952,Harold Smith,Sales,47072.42,30,Male,India,721,2020-08-11,Yes
+953,Harold Gray,Support,47655.52,65,Female,Switzerland,1301,2016-01-26,Yes
+954,Anna Clark,Marketing,65686.73,37,Male,Spain,519,2024-05-10,Yes
+955,Jeffrey Nelson,Support,63142.31,60,Non-binary,Germany,55,2019-12-20,Yes
+956,Donna Flores,Procurement,69987.81,54,Male,Saudi Arabia,1823,2017-01-30,Yes
+957,Jerry Thomas,Legal,174952.24,32,Female,South Korea,1593,2026-04-13,Yes
+958,Susan Torres,HR,87226.0,55,Female,Denmark,911,2025-01-23,Yes
+959,Christine Jackson,HR,70582.82,22,Non-binary,South Africa,1068,2020-03-09,Yes
+960,Steven Edwards,HR,64179.68,21,Female,United Arab Emirates,514,2021-03-28,Yes
+961,Raymond Wood,Sales,85568.79,48,Non-binary,Canada,16,2025-11-05,Yes
+962,Jessica Cruz,Sales,57117.71,45,Male,New Zealand,734,2025-05-27,Yes
+963,Laura Lee,Support,41308.9,51,Female,Netherlands,57,2017-09-27,Yes
+964,Amanda Hernandez,Finance,81449.29,39,Male,Singapore,588,2023-11-21,Yes
+965,Dennis Cook,Engineering,113924.7,45,Female,Denmark,1051,2022-03-10,Yes
+966,Jonathan King,HR,73062.74,65,Female,United States,853,2019-09-06,Yes
+967,Patrick Nelson,Operations,94801.69,27,Non-binary,United Kingdom,274,2024-07-15,No
+968,Nancy Bennett,Legal,172882.4,52,Male,Singapore,863,2023-09-29,Yes
+969,Anna Miller,Engineering,125897.16,31,Female,France,1871,2020-09-09,Yes
+970,Sharon Reed,Support,67727.24,49,Male,Saudi Arabia,1502,2018-07-04,No
+971,Janet Morales,Support,47227.52,34,Non-binary,Singapore,974,2024-10-17,Yes
+972,Harold Johnson,Marketing,90595.26,21,Non-binary,Mexico,1540,2017-12-31,Yes
+973,Larry Allen,Sales,71838.28,36,Male,Sweden,11,2022-05-14,Yes
+974,John Johnson,Finance,88658.37,37,Female,Singapore,614,2016-11-21,Yes
+975,Robert Jackson,Operations,106277.31,49,Male,Saudi Arabia,894,2024-08-11,Yes
+976,Barbara Cooper,Procurement,89336.81,30,Non-binary,New Zealand,788,2019-10-07,Yes
+977,Emily Mitchell,Operations,91321.28,56,Female,Singapore,1522,2018-03-04,Yes
+978,Joseph Richardson,Engineering,147884.94,40,Non-binary,Spain,956,2019-08-14,Yes
+979,Pamela Ramirez,Engineering,122024.14,46,Non-binary,India,1591,2018-12-12,Yes
+980,Pamela Lee,HR,49412.3,45,Male,Switzerland,870,2019-09-20,No
+981,Linda White,Support,41262.62,62,Female,Finland,681,2022-01-09,Yes
+982,Jessica Brown,Sales,70144.84,36,Male,Italy,429,2025-02-06,Yes
+983,Joshua Taylor,Operations,64670.2,58,Non-binary,South Korea,1561,2025-03-18,Yes
+984,David Morris,Engineering,106609.42,38,Female,Norway,65,2023-11-14,Yes
+985,Larry Peterson,Procurement,94891.37,56,Non-binary,Norway,590,2020-11-24,Yes
+986,Jerry Lewis,Finance,61482.14,48,Non-binary,South Africa,881,2025-02-22,Yes
+987,Michelle Morgan,Sales,45419.9,62,Male,Netherlands,786,2025-12-06,Yes
+988,Angela White,Procurement,84426.85,52,Male,Spain,1149,2022-03-14,Yes
+989,Joseph Wright,Support,68710.31,38,Non-binary,Canada,148,2025-12-01,Yes
+990,Raymond Bailey,Support,62929.68,32,Female,Switzerland,1353,2019-04-19,Yes
+991,Betty Gray,Sales,53769.71,37,Non-binary,Saudi Arabia,54,2018-12-01,Yes
+992,Sandra Diaz,Marketing,77911.05,47,Female,United Arab Emirates,937,2021-11-22,Yes
+993,Elizabeth Jones,Finance,68113.54,42,Non-binary,New Zealand,1868,2017-06-27,Yes
+994,Debra Hernandez,Operations,55526.77,25,Male,Germany,1789,2026-05-19,Yes
+995,Nicholas Young,HR,80046.35,43,Non-binary,Mexico,612,2026-04-07,Yes
+996,Rachel Reyes,Operations,81141.67,44,Female,Mexico,1858,2023-03-04,Yes
+997,Joseph Brooks,Procurement,81469.94,65,Non-binary,Australia,1691,2019-02-20,Yes
+998,Karen Bailey,Legal,160404.32,46,Male,Brazil,312,2018-12-08,Yes
+999,John Perez,Finance,118030.32,31,Female,South Korea,846,2018-11-19,Yes
+1000,Jonathan Harris,Sales,91992.92,58,Male,Sweden,1394,2016-01-17,Yes
